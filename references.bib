@@ -1,0 +1,2259 @@
+%OSPREY and predecessor work
+
+@misc{OSPREY,
+  author = {Georgiev, Ivelin and Roberts, Kyle E. and Gainza, Pablo and Hallen, Mark A. and Donald, Bruce R.},
+  title = { {\sc osprey} (\underline{O}pen \underline{S}ource \underline{P}rotein \underline{Re}design for \underline{Y}ou) User Manual},
+  year = {2009},
+  howpublished = {Available online: {\tt www.cs.duke.edu/donaldlab/software.php}.  Updated, 2015.  94 pages.}
+}
+%howpublished = {Available online: {\tt www.cs.duke.edu/donaldlab/software.php} (2009).  Updated, 2015.  94 pages.}
+
+
+@article{DEE,
+ author = {Desmet, Johan and de Maeyer, Marc and Hazes, Bart and Lasters, Ignace},
+ title = {The dead-end elimination theorem and its use in protein side-chain positioning},
+ journal = {Nature},
+ year = {1992},
+ volume = {356},
+ pages = {539-542},
+}
+
+@article{DEE/A*,
+ author = {Leach, Andrew R. and Lemon, Andrew P.},
+ title = {Exploring the conformational space of protein side chains using dead-end elimination and the {A}* algorithm},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {1998},
+ volume = {33},
+ number = {2},
+ pages = {227-239},
+}
+
+@article{A*,
+ author = {Hart, Peter E. and Nilsson, Nils J. and Raphael, Bertram},
+ title = {A Formal Basis for the Heuristic Determination of Minimum Cost Paths},
+ journal = {IEEE Transactions on Systems Science and Cybernetics},
+ year = {1968},
+ volume = {4},
+ number = {2},
+ pages = {100-107},
+}
+
+@article{minDEE,
+ author = {Georgiev, Ivelin and Lilien, Ryan H. and Donald, Bruce R.},
+ title = {The minimized dead-end elimination criterion and its application to protein redesign in a hybrid scoring and search algorithm for computing partition functions over molecular ensembles},
+ journal = {Journal of Computational Chemistry},
+ year = {2008},
+ volume = {29},
+ number = {10},
+ pages = {1527-1542},
+}
+
+@article{iMinDEE,
+ author = {Gainza, Pablo and Roberts, Kyle and Donald, Bruce R.},
+ title = {Protein design using continuous rotamers},
+  journal = {PLoS Computational Biology},
+ year = {2012},
+ volume = {8},
+ number = {1},
+ pages = {e1002335},
+}
+
+@article{BD,
+ author = {Georgiev, Ivelin and Donald, Bruce R.},
+ title = {Dead-end elimination with backbone flexibility},
+ journal = {Bioinformatics},
+ year = {2007},
+ volume = {23},
+ number = {13},
+ pages = {i185-i194},
+}
+
+@article{brDEE,
+ author = {Georgiev, Ivelin and Keedy, Daniel and Richardson, Jane S. and Richardson, David C. and Donald, Bruce R.},
+ title = {Algorithm for backrub motions in protein design},
+ journal = {Bioinformatics},
+ year = {2008},
+ volume = {24},
+ number = {13},
+ pages = {i196-i204},
+}
+
+@article{K*,
+ author = {Lilien, Ryan H. and Stevens, Brian W. and Anderson, Amy C. and Donald, Bruce R.},
+ title = {A novel ensemble-based scoring and search algorithm for protein redesign and its application to modify the substrate specificity of the gramicidin synthetase {A} phenylalanine adenylation enzyme},
+ journal = {Journal of Computational Biology},
+ year = {2005},
+ volume = {12},
+ number = {6},
+ pages = {740-761},
+}
+
+@InProceedings{Levinthal,
+ author = {Levinthal, Cyrus},
+ title = {How to fold graciously},
+ booktitle = {Mossbauer spectroscopy in biological systems: proceedings of a meeting held at Allerton House, Monticello, Illinois},
+ pages = {22-24},
+ year = {1969},
+ editor = {DeBrunner, J. T. P. and Munck, E.},
+ publisher = {University of Illinois Press},
+ url = {http://www-miller.ch.cam.ac.uk/levinthal/levinthal.html},
+}
+
+@article{Probe,
+ author = {Word, J. Michael and Lovell, Simon C. and LaBean, Thomas H. and Taylor, Hope C. and Zalis, Michael E. and Presley, Brent K. and Richardson, Jane S. and Richardson, David C.},
+ title = {Visualizing and quantifying molecular goodness-of-fit: small-probe contact dots with explicit hydrogen atoms},
+ journal = {Journal of Molecular Biology},
+ year = {1999},
+ volume = {285},
+ number = {4},
+ pages = {1711-1733},
+}
+
+@article{MolProbity,
+ author = {Chen, Vincent B. and Arendall, III, W. Bryan and Headd, Jeffrey J. and Keedy, Daniel A. and Immormino, Robert M. and Kapral, Gary J. and Murray, Laura W. and Richardson, Jane S. and Richardson, David C.},
+ title = {Mol{P}robity: all-atom structure validation for macromolecular crystallography},
+ journal = {Acta Crystallographica D},
+ year = {2010},
+ volume = {66},
+ pages = {12-21},
+}
+
+@article{Goldstein,
+ author = {Goldstein, R. F.},
+ title = {Efficient rotamer elimination applied to protein side-chains and related spin glasses},
+ journal = {Biophysical Journal},
+ year = {1994},
+ volume = {66},
+ number = {5},
+ pages = {1335-1340},
+}
+
+@article{minBounds_DACS,
+ author = {Georgiev, Ivelin and Lilien, Ryan H. and Donald, Bruce R.},
+ title = {Improved Pruning algorithms and Divide-and-Conquer strategies for Dead-End Elimination, with application to protein design},
+ journal = {Bioinformatics},
+ year = {2006},
+ volume = {22},
+ number = {14},
+ pages = {e174-e183},
+}
+
+@article{HERO,
+ author = {Gordon, D. Benjamin and Hom, Geoffrey K. and Mayo, Stephen L. and Pierce, Niles A.},
+ title = {Exact rotamer optimization for protein design},
+ journal = {Journal of Computational Chemistry},
+ year = {2003},
+ volume = {24},
+ pages = {232-243},
+}
+
+@article{magic_bullets,
+ author = {Gordon, D. Benjamin and Mayo, Stephen L.},
+ title = {Radical performance enhancements for combinatorial optimization algorithms based on the dead-end elimination theorem},
+ journal = {Journal of Computational Chemistry},
+ year = {1998},
+ volume = {19},
+ number = {13},
+ pages = {1505-1514},
+}
+
+
+@article{AMBER,
+ author = {Weiner, Paul K. and Kollman, Peter A.},
+ title = {{AMBER}: Assisted model building and energy refinement.  {A} general program for modeling molecules and their interactions},
+ journal = {Journal of Computational Chemistry},
+ year = {1981},
+ volume = {2},
+ number = {3},
+ pages = {287-303},
+}
+
+@article{AMBER95,
+ author = {Cornell, Wendy D. and Cieplak, Piotr and Bayly, Christopher I. and Gould, Ian R. and Merz, Kenneth M. and Ferguson, David M. and Spellmeyer, David C. and Fox, Thomas and Caldwell, James W. and Kollman, Peter A.},
+ title = {A Second Generation Force Field for the Simulation of Proteins, Nucleic Acids, and Organic Molecules},
+ journal = {Journal of the American Chemical Society},
+ year = {1995},
+ volume = {117},
+ pages = {5179-5197},
+}
+
+@article{AMBER95_Pearlman,
+	title = {{AMBER,} a package of computer programs for applying molecular mechanics, normal mode analysis, molecular dynamics and free energy calculations to simulate the structural and energetic properties of molecules},
+	volume = {91},
+	number = {1-3},
+	journal = {Comput. Phys. Commun.},
+	author = {DA Pearlman and DA Case and JW Caldwell and WS Ross and TE Cheatham and S {DeBolt} and D Ferguson and G Seibel and P Kollman},
+	year = {1995},
+	pages = {1-41}
+}
+
+@article{CHARMM,
+  title={CHARMM: A program for macromolecular energy, minimization, and dynamics calculations},
+  author={Brooks, Bernard R. and Bruccoleri, Robert E. and Olafson, Barry D. and States, David J. and Swaminathan, S. and Karplus, Martin},
+  journal={Journal of Computational Chemistry},
+  volume={4},
+  number={2},
+  pages={187-217},
+  year={1983},
+}
+
+@article{EEF1,
+ author = {Lazaridis, Themis and Karplus, Martin},
+ title = {Effective energy function for proteins in solution},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {1999},
+ volume = {35},
+ number = {2},
+ pages = {133-152},
+}
+
+@article{rotamers,
+ author = {Janin, Jo\"el and Wodak, Shoshanna and Levitt, Michael and Maigret, Bernard},
+ title = {Conformation of amino acid side-chains in proteins},
+ journal = {Journal of Molecular Biology},
+ year = {1978},
+ volume = {125},
+ number = {3},
+ pages = {357-386},
+}
+
+@article{penultimate,
+ author = {Lovell, Simon C. and Word, Michael J. and Richardson, Jane S. and Richardson, David C.},
+ title = {The penultimate rotamer library},
+ journal = {Proteins: Structure, Function, and Genetics},
+ year = {2000},
+ volume = {40},
+ pages = {389-408},
+}
+
+@article{conf_splitting,
+ author = {Pierce, N. A. and Spriet, J. A. and Desmet, J. and Mayo, S. L.},
+ title = {Conformational Splitting: A More Powerful Criterion for Dead-End Elimination},
+ journal = {Journal of Computational Chemistry},
+ year = {2000},
+ volume = {21},
+ number = {11},
+ pages = {999-1009},
+}
+
+@article{NP-hard_GMEC,
+ author = {Pierce, Niles A. and Winfree, Erik},
+ title = {Protein design is \textit{{N}{P}}-hard},
+ journal = {Protein Engineering},
+ year = {2002},
+ volume = {15},
+ number = {10},
+ pages = {779-782},
+}
+
+@article{NP-hard_approx_GMEC,
+ author = {Chazelle, Bernard and Kingsford, Carl and Singh, Mona},
+ title = {A Semidefinite Programming Approach to Side Chain Positioning with New Rounding Strategies},
+ journal = {INFORMS Journal on Computing, Computational Biology Special Issue},
+ year = {2004},
+ volume = {16},
+ number = {4},
+ pages = {380-392},
+}
+
+
+
+@article{CB_dev,
+ author = {Lovell, Simon C. and Davis, Ian W. and Arendall, III, W. Bryan and de Bakker, Paul I. W. and Word, J. Michael and Prisant, Michael G. and Richardson, Jane S. and Richardson, David C.},
+ title = {Structure validation by {C}$_\alpha$ geometry: $\phi,$ $\psi,$ and {C}$_\beta$ deviation},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2003},
+ volume = {50},
+ number = {3},
+ pages = {437-450},
+}
+
+@article{OSPREY_MIE,
+ author = {Gainza, Pablo and Roberts, Kyle E. and Georgiev, Ivelin and Lilien, Ryan H. and Keedy, Daniel A. and Chen, Cheng-Yu and Reza, Faisal and Anderson, Amy C. and Richardson, David C. and Richardson, Jane S. and Donald, Bruce R.},
+ title = {{\sc osprey}: Protein Design with Ensembles, Flexibility, and Provable Algorithms},
+ journal = {Methods in Enzymology},
+ year = {2013},
+ volume = {523},
+ pages = {87-107},
+}
+
+@article{DEEPer,
+ author = {Hallen, Mark A. and Keedy, Daniel A. and Donald, Bruce R.},
+ title = {Dead-end elimination with perturbations ({DEEP}er): A provable protein design algorithm with continuous sidechain and backbone flexibility},
+ journal = {Proteins: Structure, Function and Bioinformatics},
+ year = {2013},
+ volume = {81},
+ number = {1},
+ pages = {18-39},
+}
+
+@article{EPIC,
+	title = {A compact representation of continuous energy surfaces for more efficient protein design},
+	doi = {10.1021/ct501031m},
+	journal = {Journal of Chemical Theory and Computation},
+	author = {Hallen, Mark A. and Gainza, Pablo and Donald, Bruce R.},
+	year = {2015},
+	volume = {11},
+	number = {5},
+	pages = {2292--2306},
+}
+
+@article{dynamic_A*,
+ author = {Roberts, Kyle E. and Gainza, Pablo and Hallen, Mark A. and Donald, Bruce R.},
+ title = {Fast gap-free enumeration of conformations and sequences for protein design},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2015},
+ volume = {83},
+ number = {10},
+ pages = {1859-1877},
+}
+
+@incollection {COMETS_RECOMB,
+   author = {Hallen, Mark A. and Donald, Bruce R.},
+   affiliation = {Department of Computer Science, Duke University, Durham, NC 27708, USA},
+   title = {{\sc comets} ({Constrained Optimization of Multistate Energies by Tree Search}): A provable and efficient algorithm to optimize binding affinity and specificity with respect to sequence},
+   booktitle = {Research in Computational Molecular Biology},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer International Publishing},
+   isbn = {978-3-319-16706-0},
+   keyword = {Computer Science},
+   pages = {122-135},
+   volume = {9029},
+   url = {http://dx.doi.org/10.1007/978-3-319-16706-0_14},
+   year = {2015}
+}
+
+@phdthesis{Kyle_thesis,
+  title={Novel Computational Protein Design Algorithms with Applications to Cystic Fibrosis and {HIV}},
+  author={Roberts, Kyle E.},
+  school={Duke University},
+  year={2014}
+}
+
+@article{COMETS,
+ author = {Hallen, Mark A. and Donald, Bruce R.},
+ title = {{\sc comets} ({Constrained Optimization of Multistate Energies by Tree Search}): A provable and efficient protein design algorithm to optimize binding affinity and specificity with respect to sequence},
+ journal={Journal of Computational Biology},
+ volume={23},
+ number={5},
+ pages={311-321},
+ year={2016},
+}
+
+
+@article{BWM*,
+ author = {Jou, Jonathan D. and Jain, Swati and Georgiev, Ivelin and Donald, Bruce R.},
+ title = {{BWM}*: A Novel, Provable, Ensemble-Based Dynamic Programming Algorithm for Sparse Approximations of Computational Protein Design},
+ journal = {Journal of Computational Biology},
+ volume={23},
+ number={6},
+ pages={413-424},
+ year={2016},
+}
+
+@inproceedings{LUTE_RECOMB,
+  title={{LUTE (Local Unpruned Tuple Expansion)}: Accurate Continuously Flexible Protein Design with General Energy Functions and Rigid-rotamer-like Efficiency},
+  author={Hallen, Mark A. and Jou, Jonathan D. and Donald, Bruce R.},
+  booktitle={International Conference on Research in Computational Molecular Biology},
+  pages={122-136},
+  year={2016},
+  organization={Springer}
+}
+
+
+@article{cloud_OSPREY,
+ author = {Pan, Yuchao and Dong, Yuxi and Zhou, Jingtian and Hallen, Mark and Donald, Bruce R. and Zeng, Jianyang and Wei Xu},
+ title = {c{OSPREY}: A Cloud-Based Distributed Algorithm for Large-Scale Computational Protein Design},
+ year = {2015},
+ note = {Submitted manuscript},
+}
+
+@article{PartCR_HOT,
+  title={Improved energy bound accuracy enhances the efficiency of continuous protein design},
+  author={Roberts, Kyle E. and Donald, Bruce R.},
+  journal={Proteins: Structure, Function, and Bioinformatics},
+  volume={83},
+  number={6},
+  pages={1151-1164},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{cosb_design,
+  title={Algorithms for protein design},
+  author={Gainza, Pablo and Nisonoff, Hunter M. and Donald, Bruce R.},
+  journal={Current Opinion in Structural Biology},
+  volume={39},
+  pages={16-26},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@incollection{mimb_resistance,
+   author = {Ojewole, Adegoke and Lowegard, Anna and Gainza, Pablo and Reeve, Stephanie M. and Georgiev, Ivelin and Anderson, Amy C. and Donald, Bruce R.},
+   title = {{\sc osprey} predicts resistance mutations using positive and negative computational protein design},
+   booktitle = {Computational Protein Design},
+   series = {Methods in Molecular Biology},
+   publisher = {Humana Press},
+   address = {New York},
+   note = {In press},
+   volume = {1529},
+   year = {2017},
+}
+
+mimb_resistance
+
+
+
+%Perturbations
+
+@article{Backrub,
+ author = {Davis, Ian W. and Arendall, W. Bryan and Richardson, David C. and Richardson, Jane S.},
+ title = {The backrub motion: how protein backbone shrugs when a sidechain dances},
+ journal = {Structure},
+ year = {2006},
+ volume = {14},
+ number = {2},
+ pages = {265-274},
+}
+
+@article{CSJD,
+ author = {Coutsias, Evangelos A. and Seok, Chaok and Jacobson, Matthew P. and Dill, Ken A.},
+ title = {A kinematic view of loop closure},
+ journal = {Journal of Computational Chemistry},
+ year = {2004},
+ volume = {25},
+ number = {4},
+ pages = {510-528},
+}
+
+@article{6R,
+ author = {Manocha, D. and Canny, J. F.},
+ title = {Efficient inverse kinematics for general 6R manipulators},
+ journal = {IEEE Transactions on Robotics and Automation},
+ year = {1994},
+ volume = {10},
+ number = {5},
+ pages = {648-657},
+}
+
+@article{NormalModes,
+  title={Coarse-grained normal mode analysis in structural biology},
+  author={Bahar, Ivet and Rader, A. J.},
+  journal={Current Opinion in Structural Biology},
+  volume={15},
+  number={5},
+  pages={586-592},
+  year={2005},
+  publisher={Elsevier}
+}
+
+
+@article{Pro_flex,
+ author = {Ho, Bosco K. and Coutsias, Evangelos A. and Seok, Chaok and Dill, Ken A.},
+ title = {The flexibility in the proline ring couples to the protein backbone},
+ journal = {Protein Science},
+ year = {2005},
+ volume = {14},
+ number = {4},
+ pages = {1011-1018},
+}
+
+@article{Pro_H,
+ author = {Allen, Wesley D. and Czinki, Eszter and Cs\'asz\'ar, Attila G.},
+ title = {Molecular structure of proline},
+ journal = {Chemistry - A European Journal},
+ year = {2004},
+ volume = {10},
+ number = {18},
+ pages = {4512-4517},
+}
+
+@article{BB_conf_entropy,
+ author = {Z\'idek, Luk\'as and Novotny, Milos V. and Stone, Martin J.},
+ title = {Increased protein backbone conformational entropy upon hydrophobic ligand binding},
+ journal = {Nature Structural Biology},
+ year = {1999},
+ volume = {6},
+ pages = {1118-1121},
+ }
+ 
+ @article{brubevol,
+ author = {Keedy, Daniel A. and Georgiev, Ivelin and Triplett, Edward B. and Donald, Bruce R. and Richardson, David C. and Richardson, Jane S.},
+ title = {The Role of Local Backrub Motions in Evolved and Designed Mutations},
+ journal = {PLoS Computational Biology,},
+  volume={8},
+  number={8},
+  pages={e1002629},
+  year={2012},
+  publisher={Public Library of Science}
+}
+
+@article{recognition_entropy,
+ author = {Frederick, Kendra King and Marlow, Michael S. and Valentine, Kathleen G. and Wand, A. Joshua},
+ title = {Conformational entropy in molecular recognition by proteins},
+ journal = {Nature},
+ year = {2007},
+ volume = {448},
+ pages = {325-329},
+ }
+
+@article{RosettaDock_min,
+ author = {Wang, Chu and Schueler-Furman, Ora and Baker, David},
+ title = {Improved side-chain modeling for protein-protein docking},
+ journal = {Protein Science},
+ year = {2005},
+ volume = {14},
+ number = {5},
+ pages = {1328-1339},
+ }
+ 
+%Quantum stuff
+
+@book{comp_chem_handbook,
+author = {Cook, David B.},
+title = {Handbook of Computational Quantum Chemistry},
+address = {Mineola, NY},
+publisher = {Dover Publications, Inc.},
+year = {2005},
+}
+
+@article{MFCC,
+ author = {Zhang, Da W. and Zhang, J. Z. H.},
+ title = {Molecular fractionation with conjugate caps for full quantum mechanical calculation of protein-molecule interaction energy},
+ journal = {Journal of Chemical Physics},
+ year = {2003},
+ volume = {119},
+ number = {7},
+ pages = {3599-3605},
+}
+
+@incollection{QM_cluster_expansion,
+   author = {{\v C\'i\v zek}, {Ji\v r\'i}},
+   title = {On the use of the cluster expansion and the technique of diagrams in calculations of correlation effects in atoms and molecules},
+   booktitle = {Correlation Effects in Atoms and Molecules},
+   series = {Advances in Chemical Physics},
+   publisher = {John Wiley and Sons},
+   pages = {35-90},
+   volume = {14},
+   year = {2009}
+}
+
+@article{DHFR_polarization,
+ author = {Garcia-Viloca, Mireia and Truhlar, Donald G. and Gao, Jiali},
+ title = {Importance of substrate and cofactor polarization in the active site of dihydrofolate reductase},
+ journal = {Journal of Molecular Biology},
+ year = {2003},
+ volume = {327},
+ number = {2},
+ pages = {549-560},
+}
+
+@article{CPMD,
+  title = {Unified approach for molecular dynamics and density-functional theory},
+  author = {Car, R.  and Parrinello, M. },
+  journal = {Physical Review Letters},
+  volume = {55},
+  number = {22},
+  pages = {2471-2474},
+  year = {1985},
+}
+
+@article{MFCC-CPCM,
+ author = {Mei, Ye and Ji, Changge and Zhang, John Z. H.},
+ title = {A new quantum method for electrostatic solvation energy of protein},
+ journal = {Journal of Chemical Physics},
+ year = {2006},
+ volume = {125},
+ number = {9},
+ pages = {094906},
+}
+
+@article{G_errors,
+ author = {Merz., Jr., Kenneth M.},
+ title = {Limits of free energy computation for protein-ligand interactions},
+ journal = {Journal of Chemical Theory and Computation},
+ year = {2010},
+ volume = {6},
+ number = {5},
+ pages = {1769-1776},
+}
+
+@article{QMLIECE_vs._LIECE,
+ author = {Zhou, Ting and Huang, Danzhi and Caflisch, Amedeo},
+ title = {Is quantum mechanics necessary for predicting binding free energy?},
+ journal = {Journal of Medicinal Chemistry},
+ year = {2008},
+ volume = {51},
+ number = {14},
+ pages = {4280-4288},
+}
+
+@article{ab_initio_limit,
+ author = {Cs\'azs\'ar, Attila G. and Allen, Wesley D. and Schaefer, Henry F.},
+ title = {In pursuit of the \textit{ab initio} limit for conformational energy prototypes},
+ journal = {Journal of Chemical Physics},
+ year = {1998},
+ volume = {108},
+ number = {23},
+ pages = {9751-9764},
+}
+
+@article{CNDO_NDDO,
+ author = {Pople, J. A. and Santry, D. P. and Segal, G. A.},
+ title = {Approximate self-consistent molecular orbital theory.  {I. I}nvariant procedures},
+ journal = {Journal of Chemical Physics},
+ year = {1965},
+ volume = {43},
+ pages = {S129-S135},
+}
+
+@article{CI,
+ author = {Sherrill, C. David and Schaefer, III, Henry F.},
+ title = {The Configuration Interaction Method: Advances in Highly Correlated Approaches},
+ journal = {Advances in Quantum Chemistry},
+ year = {1999},
+ volume = {34},
+ pages = {143-269},
+}
+
+@article{QM_prot,
+ author = {Gogonea, Valentin and Su\'arez, Dimas and van der Vaart, Arjan and Merz, Jr., Kenneth M.},
+ title = {New developments in applying quantum mechanics to proteins},
+ journal = {Current Opinion in Structural Biology},
+ year = {2001},
+ volume = {11},
+ number = {2},
+ pages = {217-223},
+}
+
+@misc{K_linsc,
+ author = {Schwegler, Eric Raymond},
+ title = {Linear scaling computation of the {Hartree-Fock} exchange matrix},
+ howpublished = {http://digitalcorpora.org/corp/nps/files/govdocs1/214/214243.ps},
+ year = {1998},
+}
+
+@article{linsc_DnC,
+ author = {van der Vaart, Arjan and Gogonea, Valentin and Dixon, Stephen L. and Merz, Jr., Kenneth M.},
+ title = {Linear scaling molecular orbital calculations of biological systems using the semiempirical divide and conquer method},
+ journal = {Journal of Computational Chemistry},
+ year = {2000},
+ volume = {21},
+ number = {16},
+ pages = {1494-1504},
+}
+
+@article{NLSCC,
+ author = {Flocke, N. and Bartlett, Rodney J.},
+ title = {A natural linear-scaling coupled-cluster method},
+ journal = {Journal of Chemical Physics},
+ year = {2004},
+ volume = {121},
+ number = {22},
+ pages = {10935-10944},
+}
+
+@article{multipole_2charges,
+ author = {Carlson, B. C and Rushbrooke, G. S.},
+ title = {On the expansion of a {C}oulomb potential in spherical harmonics},
+ journal = {Mathematical Proceedings of the Cambridge Philosophical Society},
+ year = {1950},
+ volume = {46},
+ number = {4},
+ pages = {626-633},
+}
+
+@article{bipolar_expansion,
+ author = {Buehler, Robert J. and Hirschfelder, Joseph O.},
+ title = {Bipolar Expansion of {C}oulombic Potentials},
+ journal = {Physical Review},
+ year = {1951},
+ volume = {83},
+ number = {3},
+ pages = {628-633},
+}
+
+@article{ELMO,
+ author = {Couty, Marc and Bayse, Craig A. and Hall, Michael B.},
+ title = {Extremely localized molecular orbitals ({ELMO}): a non-orthogonal {Hartree-Fock} method},
+ journal = {Theoretical Chemistry Accounts},
+ year = {1997},
+ volume = {97},
+ pages = {96-109},
+}
+
+@misc{PyQuante,
+ author = {Muller, Richard P.},
+ title = {{P}y{Q}uante: {P}ython Quantum Chemistry},
+ howpublished = {http://pyquante.sourceforge.net/},
+ year = {2009},
+}
+
+@article{NWChem,
+ author = {Valiev, M. and Bylaska, E. J. and Govind, N. and Kowalski, K. and Straatsma, T. P. and van Dam, H. J. J. and Wang, D. and Nieplocha, J. and Apra, E. and Windus, T. L. and de Jong, W. A.},
+ title = {{NWC}hem: A comprehensive and scalable open-source solution for large scale molecular simulations},
+ journal = {Computer Physics Communications},
+ year = {2010},
+ volume = {181},
+ number = {9},
+ pages = {1477-1489},
+}
+
+@article{var_reduction,
+ author = {Garrod, Claude and Percus, Jerome K.},
+ title = {Reduction of the {$N$}-particle variational problem},
+ journal = {Journal of Mathematical Physics},
+ year = {1964},
+ volume = {5},
+ number = {12},
+ pages = {1756-1776},
+}
+
+@article{GenDFT,
+ author = {Ayers, Paul W. and Levy, Mel},
+ title = {Generalized density-functional theory: conquering the {$N$}-representability problem with exact functionals for the electron pair density and the second-order reduced density matrix},
+ journal = {Journal of Chemical Sciences},
+ year = {2005},
+ volume = {117},
+ number = {5},
+ pages = {507-514},
+}
+
+%PBSA
+
+@article{PBSA,
+ author = {Sitkoff, Doree and Sharp, Kim A. and Honig, Barry},
+ title = {Accurate Calculation of Hydration Free Energies Using Macroscopic Solvent Models},
+ journal = {Journal of Physical Chemistry},
+ year = {1994},
+ volume = {98},
+ pages = {1978-1988},
+}
+
+@article{PB_pairwise,
+ author = {Vizcarra, Christina L. and Zhang, Naigong and Marshall, Shannon A. and Wingreen, Ned S. and Zeng, Chen and Mayo, Stephen L.},
+ title = {An improved pairwise decomposable finite-difference {Poisson-Boltzmann} method for computational protein design},
+ journal = {Journal of Computational Chemistry},
+ year = {2008},
+ volume = {29},
+ number = {7},
+ pages = {1153-1162},
+}
+
+@article{SASA_updates,
+ author = {Leaver-Fay, Andrew and Butterfoss, Glenn L. and Snoeyink, Jack and Kuhlman, Brian},
+ title = {Maintaining Solvent Accessible Surface Area Under Rotamer Substitution for Protein Design},
+ journal = {Journal of Computational Chemistry},
+ year = {2007},
+ volume = {28},
+ pages = {1336-1341},
+}
+
+@article{SASA_pairwise,
+ author = {Street, Arthur G. and Mayo, Stephen L.},
+ title = {Pairwise calculation of protein solvent-accessible surface areas},
+ journal = {Folding and Design},
+ year = {1998},
+ volume = {3},
+ number = {4},
+ pages = {253-258},
+}
+
+@article{SASA_pairwise_generic_SC,
+ author = {Zhang, Naigong and Zeng, Chen and Wingreen, Ned S.},
+ title = {Fast accurate evaluation of protein solvent exposure},
+ journal = {Proteins: Structure, Function and Bioinformatics},
+ year = {2004},
+ volume = {57},
+ number = {3},
+ pages = {565-576},
+}
+
+@misc{NACCESS,
+	title = "{NACCESS}",
+	author = "S.J. Hubbard and J.M. Thornton",
+	year = "1993",
+	howpublished = "Computer Program, Department of Biochemistry and Molecular Biology, University College London"
+}
+
+@article{OSOR,
+ author = {Nicholls, Anthony and Honig, Barry},
+ title = {A rapid finite difference algorithm, utilizing successive over-relaxation to solve the {Poisson-Boltzmann} equation},
+ journal = {Journal of Computational Chemistry},
+ year = {1991},
+ volume = {12},
+ number = {4},
+ pages = {435-445},
+}
+
+@article{DelPhi_surface,
+ author = {Rochia, Walter and Sridharan, Sundaram and Nicholls, Anthony and Alexov, Emil and Chiabrera, Alessandro and Honig, Barry},
+ title = {Rapid Grid-Based Construction of the Molecular Surface and the Use of Induced Surface Charge to Calculate Reaction Field Energies: Applications to the Molecular Systems and Geometric Objects},
+ journal = {Journal of Computational Chemistry},
+ year = {2002},
+ volume = {23},
+ number = {1},
+ pages = {128-137},
+}
+
+%OSPREY and related applications
+
+@article{DHFR-PNAS,
+ author = {Frey, Kathleen M. and Georgiev, Ivelin and Donald, Bruce R. and Anderson, Amy C.},
+ title = {Predicting resistance mutations using protein design algorithms},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {2010},
+ volume = {107},
+ number = {31},
+ pages = {13707-13712},
+}
+
+@article{DHFR-PNAS2,
+ author = {Reeve, Stephanie M. and Gainza, Pablo and Frey, Kathleen M. and Georgiev, Ivelin and Donald, Bruce R. and Anderson, Amy C.},
+ title = {Protein design algorithms predict viable resistance to an experimental antifolate},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {2015},
+ volume = {112},
+ number = {3},
+ pages = {749-754},
+}
+
+@article{trimethoprim_resistance,
+ author = {Frey, Kathleen M. and Lombardo, Michael N. and Wright, Dennis L. and Anderson, Amy C.},
+ title = {Towards the understanding of resistance mechanisms in clinically isolated trimethoprim-resistant, methicillin-resistant \textit{{S}taphylococcus aureus} dihydrofolate reductase},
+ journal = {Journal of Structural Biology},
+ year = {2010},
+ volume = {170},
+ number={1},
+ pages = {93-97},
+}
+
+
+@article{GrsA-LeuA,
+ author = {Chen, Cheng-Yu and Georgiev, Ivelin and Anderson, Amy C. and Donald, Bruce R.},
+ title = {Computational structure-based redesign of enzyme activity},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {2009},
+ volume = {106},
+ number = {10},
+ pages = {3764-3769},
+}
+
+@article{GrsA-TyrA,
+ author = {Stevens, Brian W. and Lilien, Ryan H. and Georgiev, Ivelin and Donald, Bruce R. and Anderson, Amy C.},
+ title = {Redesigning the {PheA} domain of Gramicidin Synthetase leads to a new understanding of the enzyme's mechanism and selectivity},
+ journal = {Biochemistry},
+ year = {2006},
+ volume = {45},
+ number = {51},
+ pages = {15495-15504},
+}
+
+@article{Grs_amphiphilicity,
+ author = {Prenner, Elmar J. and Kiricsi, Monika and Jelokhani-Niaraki, Masood and Lewis, Ruthven N. A. H. and Hodges, Robert S. and McElhaney, Ronald N.},
+ title = {Structure-Activity Relationships of Diastereomeric Lysine Ring Size Analogs of the Antimicrobial Peptide {G}ramicidin {S}: MECHANISM OF ACTION AND DISCRIMINATION BETWEEN BACTERIAL AND ANIMAL CELL MEMBRANES},
+ journal = {Journal of Biological Chemistry},
+ year = {2005},
+ volume = {280},
+ pages = {2002-2011},
+}
+
+@article{LPS,
+ author = {Raetz, Christian R. H. and Whitfield, Chris},
+ title = {Lipopolysaccharide endotoxins},
+ journal = {Annual Review of Biochemistry},
+ year = {2002},
+ volume = {71},
+ pages = {635-700},
+}
+
+@article{peptide_920_struct,
+ author = {Williams, Allison H. and Immormino, Robert M. and Gewirth, Daniel T. and Raetz, Christian R. H.},
+ title = {Structure of {UDP-N}-acetylglucosamine acyltransferase with a bound antibacterial pentadecapeptide},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {2006},
+ volume = {103},
+ number={29},
+ pages = {10877-10882},
+}
+
+@article{CDR,
+ author = {Al-Lazikani, B. and Lesk, Arthur M. and Chothia, Cyrus},
+ title = {Standard conformations for the canonical structures of immunoglobulins},
+ journal = {Journal of Molecular Biology},
+ year = {1997},
+ volume = {273},
+ number={4},
+ pages = {927-948},
+}
+
+@article{VRC01,
+ author = {Wu, Xueling and others},
+ title = {Rational Design of Envelope Identifies Broadly Neutralizing Human Monoclonal Antibodies to {HIV}-1},
+ journal = {Science},
+ year = {2010},
+ volume = {329},
+ number={5993},
+ pages = {856-861},
+}
+
+@article{specific_probes,
+ author = {Georgiev, I. and Acharya, P. and Schmidt, S. and Li, Y. and Wycuff, D. and Ofek, G. and Doria-Rose, N. and Luongo, T. and Yang, Y. and Zhou, T. and Donald, B. R. and Mascola, J. and Kwong, P.},
+ title = {Design of epitope-specific probes for sera analysis and antibody isolation},
+ journal = {Retrovirology},
+ year = {2012},
+ volume = {9},
+ number={Suppl. 2},
+ pages = {P50},
+}
+
+@article{VRC01_10E8_reversion,
+ author = {Georgiev, Ivelin S. and Rudicell, Rebecca S. and Saunders, Kevin O. and Shi, Wei and Kirys, Tatsiana and McKee, Krisha and O'Dell, Sijy and Chuang, Gwo-Yu and Yang, Zhi-Yong and Ofek, Gilad and Connors, Mark and Mascola, John R. and Nabel, Gary J. and Kwong, Peter D.},
+ title = {Antibodies {VRC01} and {10E8} Neutralize {HIV}-1 with High Breadth and Potency Even with {Ig}-Framework Regions Substantially Reverted to Germline},
+ journal = {The Journal of Immunology},
+ year = {2014},
+ volume = {192},
+ number = {3},
+ pages = {1100-1106},
+}
+
+@article{runx1_cbfb,
+ author = {Gorczynski, Michael J. and Grembecka, Jolanta and Zhou, Yunpeng and Kong, Yali and Roudaia, Liya and Douvas, Michael G. and Newman, Miki and Bielnicka, Izabela and Baber, Gwen and Corpora, Takeshi and Shi, Jianxia and Sridharan, Mohini and Lilien, Ryan and Donald, Bruce R. and Speck, Nancy A. and Brown, Milton L. and Bushweller, John H.},
+ title = {Allosteric Inhibition of the Protein-Protein Interaction between the Leukemia-Associated Proteins {R}unx1 and {CBF}$\beta$},
+ journal = {Chemistry and Biology},
+ year = {2007},
+ volume = {14},
+ pages = {1186-1197},
+}
+
+@article{natprod,
+ author = {Pel\'aez, Fernando},
+ title = {The historical delivery of antibiotics from microbial natural products--Can history repeat?},
+ journal = {Biochemical Pharmacology},
+ year = {2006},
+ volume = {71},
+ number = {7},
+ pages = {981-990},
+}
+
+
+incollection {CFTR_RECOMB,
+   author = {Roberts, Kyle E. and Cushing, Patrick R. and Boisguerin, Prisca and Madden, Dean R. and Donald, Bruce R.},
+   affiliation = {Department of Computer Science, Duke University, Durham, NC 27708, USA},
+   title = {Design of Protein-Protein Interactions with a Novel Ensemble-Based Scoring Algorithm},
+   booktitle = {Research in Computational Molecular Biology},
+   series = {Lecture Notes in Computer Science},
+   publisher = {Springer Berlin / Heidelberg},
+   isbn = {978-3-642-20035-9},
+   keyword = {Computer Science},
+   pages = {361-376},
+   volume = {6577},
+   url = {http://dx.doi.org/10.1007/978-3-642-20036-6_35},
+   year = {2011}
+}
+
+@article {CFTR,
+   author = {Roberts, Kyle E. and Cushing, Patrick R. and Boisguerin, Prisca and Madden, Dean R. and Donald, Bruce R.},
+   title = {Computational design of a {PDZ} domain peptide inhibitor that rescues {CFTR} activity},
+   journal = {PLoS Computational Biology},
+   year = {2012},
+   volume = {8},
+   number={4},
+   pages = {e1002477},
+}
+
+@article {VRC07_enhance,
+   author = {Rudicell, Rebecca S. and Kwon, Young Do and Ko, Sung-Youl and Pegu, Amarendra and Louder, Mark K. and Georgiev, Ivelin S. and Wu, Xueling and Zhu, Jiang and Boyington, Jeffrey C. and Chen, Xuejun and Shi, Wei and Yang, Zhi-Yong and Doria-Rose, Nicole A. and McKee, Krisha and O'Dell, Sijy and Schmidt, Stephen D. and Chuang, Gwo-Yu and Druz, Aliaksandr and Soto, Cinque and Yang, Yongping and Zhang, Baoshan and Zhou, Tongqing and Todd, John-Paul and Lloyd, Krissey E. and Eudailey, Joshua and Roberts, Kyle E. and Donald, Bruce R. and Bailer, Robert T. and Ledgerwood, Julie and NISC Comparative Sequencing Program and Mullikin, James C. and Shapiro, Lawrence and Koup, Richard A. and Graham, Barney S. and Nason, Martha C. and Connors, Mark and Haynes, Barton F. and Rao, Srinivas S. and Roederer, Mario and Kwong, Peter D. and Mascola, John R. and Nabel, Gary J.},
+   title = {Enhanced potency of a broadly neutralizing {HIV}-1 antibody \textit{in vitro} improves protection against lentiviral infection \textit{in vivo}},
+   journal = {Journal of Virology},
+   year = {2014},
+   volume = {88},
+   number = {21},
+   pages = {12669-12682},
+}
+ 
+@book{alg_SMB_textbook,
+author = {Donald, Bruce R.},
+title = {Algorithms in Structural Molecular Biology},
+address = {Cambridge, MA},
+publisher = {MIT Press},
+year = {2011},
+}
+
+@Unpublished{AIDS_probes_abstract,
+author = {Georgiev, Ivelin and others},
+title = {Design of Epitope-Specific Probes for Sera Analysis and Antibody Isolation},
+note = {Submitted abstract},
+year = {2012},
+}
+
+%Mass spec
+
+@article{SPROX,
+ author = {West, Graham A. and Tang, Liangjie and Fitzgerald, Michael},
+ title = {Thermodynamic analysis of protein stability and ligand binding using a chemical modification- and mass spectrometry-based strategy},
+ journal = {Analytical Chemistry},
+ year = {2008},
+ volume = {80},
+ number = {11},
+ pages = {4175-4185},
+}
+
+
+%Other design methods
+
+@article{Simoncini,
+  title={Guaranteed Discrete Energy Optimization on Large Protein Design Problems},
+  author={Simoncini, David and Allouche, David and de Givry, Simon and Delmas, Celine and Barbe, Sophie and Schiex, Thomas},
+  journal={Journal of Chemical Theory and Computation},
+  volume={11},
+  number={12},
+  pages={5980-5989},
+  year={2015},
+}
+
+@article{SEWING,
+  title={Design of structurally distinct proteins using strategies inspired by evolution},
+  author={Jacobs, T. M. and Williams, B. and Williams, T. and Xu, X. and Eletsky, A. and Federizon, J. F. and Szyperski, T. and Kuhlman, B.},
+  journal={Science},
+  volume={352},
+  number={6286},
+  pages={687-690},
+  year={2016},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{MASTER,
+  title={Rapid search for tertiary fragments reveals protein sequence--structure relationships},
+  author={Zhou, Jianfu and Grigoryan, Gevorg},
+  journal={Protein Science},
+  volume={24},
+  number={4},
+  pages={508-524},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{defensin_MD_design,
+  title={Toward full-sequence~\textit{de novo} protein design with flexible templates for human $\beta$-defensin-2},
+  author={Fung, Ho Ki and Floudas, Christodoulos A. and Taylor, Martin S. and Zhang, Li and Morikis, Dimitrios},
+  journal={Biophysical Journal},
+  volume={94},
+  number={2},
+  pages={584-599},
+  year={2008},
+  publisher={Elsevier}
+}
+
+
+
+
+@article{ACSESS,
+  title={Stochastic Voyages into Uncharted Chemical Space Produce a Representative Library of All Possible Drug-Like Compounds},
+  author={Virshup, Aaron M. and Contreras-Garc\'ia, Julia and Wipf, Peter and Yang, Weitao and Beratan, David N.},
+  journal={Journal of the American Chemical Society},
+  volume={135},
+  number={19},
+  pages={7296-7303},
+  year={2013},
+}
+
+@article {solvated_rotamers,
+author = {Jiang, Lin and Kuhlman, Brian and Kortemme, Tanja and Baker, David},
+title = {A ``solvated rotamer'' approach to modeling water-mediated hydrogen bonds at protein--protein interfaces},
+journal = {Proteins: Structure, Function, and Bioinformatics},
+volume = {58},
+number = {4},
+pages = {893-904},
+year = {2005},
+}
+
+@article{ligand_free_energy,
+  title={Accurate and reliable prediction of relative ligand binding potency in prospective drug discovery by way of a modern free-energy calculation protocol and force field},
+  author={Wang, Lingle and Wu, Yujie and Deng, Yuqing and Kim, Byungchan and Pierce, Levi and Krilov, Goran and Lupyan, Dmitry and Robinson, Shaughnessy and Dahlgren, Markus K. and Greenwood, Jeremy and Romero, Donna L. and Masse, Craig and Knight, Jennifer L. and Steinbrecher, Thomas and Beuming, Thijs and Damm, Wolfgang and Harder, Ed and Sherman, Woody and Brewer, Mark and Wester, Ron and Murcko, Mark and Frye, Leah and Farid, Ramy and Lin, Teng and Mobley, David L. and Jorgensen, William L. and Berne, Bruce J. and Friesner, Richard A. and Abel, Robert},
+  journal={Journal of the American Chemical Society},
+  volume={137},
+  number={7},
+  pages={2695-2703},
+  year={2015},
+}
+
+@article{A*_tuples,
+ author = {LuCore, Stephen D. and Litman, Jacob M. and Powers, Kyle T. and Gao, Shibo and Lynn, Ava M. and Tollefson, William T. A. and Fenn, Timothy D. and Washington, M. Todd and Schnieders, Michael J.},
+ title = {Dead-End Elimination with a Polarizable Force Field Repacks {PCNA} Structures},
+ journal = {Biophysical Journal},
+ year = {2015},
+ volume = {109},
+ number = {4},
+ pages = {816-826},
+}
+
+@article{Rosetta_2000,
+ author = {Kuhlman, Brian and Baker, David},
+ title = {Native protein sequences are close to optimal for their structures},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {2000},
+ volume = {97},
+ number = {19},
+ pages = {10383-10388},
+}
+
+@article{Rosetta_review,
+ author = {Das, Rhiju and Baker, David},
+ title = {Macromolecular Modeling with {R}osetta},
+ journal = {Annual Review of Biochemistry},
+ year = {2008},
+ volume = {77},
+ pages = {363-382},
+}
+
+@article{RosettaBR1,
+ author = {Smith, Colin and Kortemme, Tanja},
+ title = {Backrub-Like Backbone Simulation Recapitulates Natural Protein Conformational Variability and Improves Mutant Side-Chain Prediction},
+ journal = {Journal of Molecular Biology},
+ year = {2008},
+ volume = {380},
+ number = {4},
+ pages = {742-756},
+}
+
+@article{RosettaBispecific,
+ author = {Lewis, Steven M. and Wu, Xiufeng and Pustilnik, Anna and Sereno, Arlene and Huang, Flora and Rick, Heather L. and Guntas, Gurkan and Leaver-Fay, Andrew and Smith, Eric M. and Ho, Carolyn and Hansen-Estruch, Christophe and Chamberlain, Aaron K. and Truhlar, Stephanie M. and Conner, Elaine M. and Atwell, Shane and Kuhlman, Brian and Demarest, Stephen J.},
+ title = {Generation of bispecific {IgG} antibodies by structure-based design of an orthogonal {Fab} interface},
+ journal = {Nature Biotechnology},
+ year = {2014},
+ volume = {32},
+ pages = {191-198},
+}
+
+@article{BPMultispecific,
+ author = {Fromer, Menachem and Yanover, Chen and Linial, Michal},
+ title = {Design of multispecific protein sequences using probabilistic graphical modeling},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2010},
+ volume = {78},
+ number = {3},
+ pages = {530-547},
+}
+
+@article{SPRINT,
+ author = {Fromer, Menachem and Yanover, Chen and Harel, Amir and Schachar, Ori and Weiss, Yair and Linial, Michal},
+ title = {{SPRINT}: Side-chain prediction inference toolbox for multistate protein design},
+ journal = {Bioinformatics},
+ year = {2010},
+ volume = {26},
+ number = {19},
+ pages = {2466-2467},
+}
+
+@phdthesis{Fromer_thesis,
+  title={A Probabilistic Approach to the Design of Structural Selectivity of Proteins},
+  author={Fromer, Menachem},
+  school={Hebrew University of Jerusalem},
+  year={2010}
+}
+
+@article{MC_min,
+ author = {Li, Zhenqin and Scheraga, Harold A.},
+ title = {{Monte Carlo}-minimization approach to the multiple-minima problem in protein folding},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {1987},
+ volume = {84},
+ number = {19},
+ pages = {6611-6615},
+}
+
+@article{RTMIN,
+ author = {Wang, Chu and Schueler-Furman, Ora and Baker, David},
+ title = {Improved side-chain modeling for protein-protein docking},
+ journal = {Protein Science},
+ year = {2005},
+ volume = {14},
+ pages = {1328-1339},
+}
+
+@article{Metropolis,
+ author = {Metropolis, Nicholas and Rosenbluth, Arianna W. and Rosenbluth, Marshall N. and Teller, Augusta H. and Teller, Edward },
+ title = {Equation of State Calculations by Fast Computing Machines},
+ journal = {Journal of Chemical Physics},
+ year = {1953},
+ volume = {21},
+ number = {6},
+ pages = {1087-1092},
+}
+
+@article{DRACO,
+ author = {Rider, Todd H. and Zook, Christina E. and Boettcher, Tara L. and Wick, Scott T. and Pancoast, Jennifer S. and Zusman, Benjamin D.},
+ title = {Broad-spectrum antiviral therapeutics},
+ journal = {PLoS ONE},
+ year = {2011},
+ volume = {6},
+ number = {7},
+ pages = {e22572},
+}
+
+@article{PBR,
+ author = {Adcock, Stewart A.},
+ title = {Peptide backbone reconstruction using dead-end elimination and a knowledge-based forcefield},
+ journal = {Journal of Computational Chemistry},
+ year = {2004},
+ volume = {25},
+ number = {1},
+ pages = {16-27},
+}
+
+@article{FASTER,
+ author = {Desmet, Johan and Spriet, Jan and Lasters, Ignace},
+ title = {Fast and accurate side-chain topology and energy refinement ({FASTER}) as a new method for protein structure optimization},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2002},
+ volume = {48},
+ number = {1},
+ pages = {31-43},
+}
+
+@article{SCMF,
+ author = {Voigt, Christopher A. and Mayo, Stephen L. and Arnold, Frances H. and Wang, Zhen-Gang},
+ title = {Computational method to reduce the search space for directed protein evolution},
+ journal = {Proceedings of the National Academy of Sciences of the USA},
+ year = {2001},
+ volume = {98},
+ number = {7},
+ pages = {3778-3783},
+}
+
+@article{fast_beta,
+ author = {Piana, Stefano and Sarkar, Krishnarjun and Lindorff-Larsen, Kresten and Guo, Minghao and Gruebele, Martin and Shaw, David E.},
+ title = {Computational Design and Experimental Testing of the Fastest-Folding $\beta$-Sheet Protein},
+ journal = {Journal of Molecular Biology},
+ year = {2011},
+ volume = {405},
+ number = {1},
+ pages = {43-48},
+}
+
+@article{redesign,
+ author = {Regan, Lynne},
+ title = {Protein redesign},
+ journal = {Current Opinion in Structural Biology},
+ year = {1999},
+ volume = {9},
+ number = {4},
+ pages = {494-499},
+}
+
+@article{Lee_Levitt,
+ author = {Lee, Christopher and Levitt, Michael},
+ title = {Accurate prediction of the stability and activity effects of site-directed mutagenesis on a protein core},
+ journal = {Nature},
+ year = {1991},
+ volume = {352},
+ pages = {448-451},
+}
+
+@article{GA,
+ author = {Le Grand, Scott M. and Merz, Kenneth M.},
+ title = {The application of the genetic algorithm to the minimization of potential energy functions},
+ journal = {Journal of Global Optimization},
+ year = {1993},
+ volume = {3},
+ number = {1},
+ pages = {49-66},
+}
+
+@article{GA_core,
+ author = {Desjarlais, John R. and Handel, Tracy M.},
+ title = {\textit{De novo} design of the hydrophobic cores of proteins},
+ journal = {Protein Science},
+ year = {1995},
+ volume = {4},
+ number = {10},
+ pages = {2006-2018},
+}
+
+@article{SC_conf,
+ author = {V\'asquez, Maximiliano},
+ title = {Modeling side-chain conformation},
+ journal = {Current Opinion in Structural Biology},
+ year = {1996},
+ volume = {6},
+ number = {2},
+ pages = {217-221},
+}
+
+@article{NNSA,
+ author = {Hwang, Jenn-Kang and Liao, Wen-Fa},
+ title = {Side-chain prediction by neural networks and simulated annealing optimization},
+ journal = {Protein Engineering},
+ year = {1995},
+ volume = {8},
+ number = {4},
+ pages = {363-370},
+}
+
+@article{GOBLIN,
+ author = {Kamisetty, Hetunandan and Ramanathan, Arvind and Bailey-Kellogg, Chris and Langmead, Christopher James},
+ title = {Accounting for conformational entropy in predicting binding free energies of protein-protein interactions},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2011},
+ volume = {79},
+ number = {2},
+ pages = {444-462},
+}
+
+@article{Hbond_Rosetta,
+  title={An orientation-dependent hydrogen bonding potential improves prediction of specificity and structure for proteins and protein--protein complexes},
+  author={Kortemme, T. and Morozov, A. V. and Baker, D.},
+  journal={Journal of Molecular Biology},
+  volume={326},
+  number={4},
+  pages={1239-1259},
+  year={2003},
+}
+
+@article{biasedMC_res_entropy,
+title = "Biased Probability {Monte Carlo} Conformational Searches and Electrostatic Calculations for Peptides and Proteins",
+journal = "J Mol Biol",
+volume = "235",
+number = "3",
+pages = "983-1002",
+year = "1994",
+note = "",
+issn = "0022-2836",
+doi = "10.1006/jmbi.1994.1052",
+author = "R. Abagyan and M. Totrov",
+}
+
+@article{lippow2007Ab_eref,
+  title={Computational design of antibody-affinity improvement beyond in vivo maturation},
+  author={Lippow, S. M. and Wittrup, K. D. and Tidor, B.},
+  journal={Nature Biotechnology},
+  volume={25},
+  number={10},
+  pages={1171-1176},
+  year={2007},
+}
+
+@article{design_progress,
+ author = {Lippow, Shaun M. and Tidor, Bruce},
+ title = {Progress in computational protein design},
+ journal = {Current Opinion in Biotechnology},
+ year = {2007},
+ volume = {18},
+ number = {4},
+ pages = {305-311},
+}
+
+@article{ASTRO-FOLD_bundle,
+ author = {Klepeis, John L. and Wei, Yinan and Hecht, Michael H. and Floudas, Christodoulos A.},
+ title = {\textit{Ab initio} prediction of the three-dimensional structure of a \textit{de novo} designed protein: A double-blind case study},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2005},
+ volume = {58},
+ number = {3},
+ pages = {560-570},
+}
+
+@article{top7,
+ author = {Kuhlman, Brian and Dantas, Gautam and Ireton, Gregory C. and Varani, Gabriele and Stoddard, Barry L. and Baker, David},
+ title = {Design of a novel globular protein fold with atomic-level accuracy},
+ journal = {Science},
+ year = {2003},
+ volume = {302},
+ number = {5649},
+ pages = {1364-1368},
+}
+
+@article{Harbury_bundle,
+ author = {Harbury, Pehr B. and Plecs, Joseph J. and Tidor, Bruce and Alber, Tom and Kim, Peter S.},
+ title = {High-Resolution Protein Design with Backbone Freedom},
+ journal = {Science},
+ year = {1998},
+ volume = {282},
+ number = {5393},
+ pages = {1462-1467},
+}
+
+@article{typedep,
+ author = {Yanover, Chen and Fromer, Menachem and Shifman, Julia M.},
+ title = {Dead-end elimination for multistate protein design},
+ journal = {Journal of Computational Chemistry},
+ year = {2007},
+ volume = {28},
+ number = {13},
+ pages = {2122-2129},
+}
+
+@article{treewidth,
+ author = {Xu, Jinbo and Berger, Bonnie},
+ title = {Fast and accurate algorithms for protein side-chain packing},
+ journal = {Journal of the ACM},
+ year = {2006},
+ volume = {53},
+ number = {4},
+ pages = {533-557},
+}
+
+@incollection{global_opt,
+   author = {Floudas, C. A. and Klepeis, J. L. and Pardalos, P. M.},
+   title = {Global optimization approaches in protein folding and peptide docking},
+   booktitle = {Mathematical Support for Molecular Biology},
+   series = {DIMACS Series in Discrete Mathematics and Theoretical Computer Science},
+   publisher = {American Mathematical Society},
+   pages = {141-172},
+   volume = {47},
+   year = {1999}
+}
+
+@article{loop_global_min,
+ author = {Dudek, Michael J. and Scheraga, Harold A.},
+ title = {Protein structure prediction using a combination of sequence homology and global energy minimization {I. G}lobal energy minimization of surface loops},
+ journal = {Journal of Computational Chemistry},
+ year = {1990},
+ volume = {11},
+ number = {1},
+ pages = {121-151},
+}
+
+@article{MC_min_ensemble,
+ author = {V\'asquez, Maximiliano and Meirovitch, Eva and Meirovitch, Hagai},
+ title = {A free energy based {Monte Carlo} minimization procedure for biomolecules},
+ journal = {Journal of Physical Chemistry},
+ year = {1994},
+ volume = {98},
+ pages = {9380-9382},
+}
+
+@article{InterfaceReview,
+ author = {Karanicolas, John and Kuhlman, Brian},
+ title = {Computational design of affinity and specificity at protein-protein interfaces},
+ journal = {Current Opinion in Structural Biology},
+ year = {2009},
+ volume = {19},
+ number = {4},
+ pages = {458-463},
+}
+
+@article{DirectedEvolution,
+ author = {Arnold, F. H.},
+ title = {Design by directed evolution},
+ journal = {Accounts of Chemical Research},
+ year = {1998},
+ volume = {31},
+ number = {3},
+ pages = {125-131},
+}
+
+@article{SMD_design,
+ author = {Leech, J. and Prins, J. F. and Hermans, J.},
+ title = {{SMD}: Visual steering of molecular dynamics for protein design},
+ journal = {Computational Science and Engineering},
+ year = {1996},
+ volume = {3},
+ number = {4},
+ pages = {38-45},
+}
+
+@article{CocaineHydrolase,
+ author = {Zheng, F. and Yang, W. and Ko, M. and Liu, J. and Cho, H. and Gao, D. and Tong, M. and Tai, H. and Woods, J. H. and Zhan, C.},
+ title = {Most efficient cocaine hydrolase designed by virtual screening of transition states},
+ journal = {Journal of the American Chemical Society},
+ year = {2008},
+ volume = {130},
+ pages = {12148-12155},
+}
+
+@article{multistate_approaches,
+ author = {Davey, J. A. and Chica, R. A.},
+ title = {Multistate approaches in computational protein design},
+ journal = {Protein Science},
+ year = {2012},
+ volume = {21},
+ number = {9},
+ pages = {1241-1252},
+}
+
+@article{generic_genetic_multistate,
+ author = {Leaver-Fay, Andrew and Jacak, Ron and Stranges, P. Benjamin and Kuhlman, Brian},
+ title = {A Generic Program for Multistate Protein Design},
+ journal = {PLoS One},
+ year = {2011},
+ volume = {6},
+ number = {7},
+ pages = {e20937},
+}
+
+@article{CFN_design,
+ author = {Traor\'e, Seydou and Allouche, David and Andr\'e, Isabelle and de Givry, Simon and Katsirelos, George and Schiex, Thomas and Barbe, Sophie},
+ title = {A new framework for computational protein design through cost function network optimization},
+ journal = {Bioinformatics},
+ year = {2013},
+ volume = {29},
+ number = {17},
+ pages = {2129-2136},
+}
+
+@article{ILP_design,
+ author = {Kingsford, Carleton L. and Chazelle, Bernard and Singh, Mona},
+ title = {Solving and analyzing side-chain positioning problems using linear and integer programming},
+ journal = {Bioinformatics},
+ year = {2005},
+ volume = {21},
+ number = {7},
+ pages = {1028-1039},
+}
+
+@article{ClusterExpansion,
+ author = {Grigoryan, Gevorg and Zhou, Fei and Lustig, Steve R. and Ceder, Gerbrand and Morgan, Dane and Keating, Amy E.},
+ title = {Ultra-Fast Evaluation of Protein Energies Directly from Sequence},
+ journal = {PLoS Computational Biology},
+ year = {2006},
+ volume = {2},
+ number = {6},
+ pages = {e63},
+}
+
+@article{CLASSY,
+ author = {Grigoryan, Gevorg and Reinke, Aaron W. and Keating, Amy E.},
+ title = {Design of protein-interaction specificity affords selective b{ZIP}-binding peptides},
+ journal = {Nature},
+ year = {2009},
+ volume = {458},
+ number = {7240},
+ pages = {859-864},
+}
+
+@article{wcsp_jcc,
+ author = {Traor\'e, Seydou and Roberts, Kyle E. and Allouche, David and Donald, Bruce R. and Andr\'e, Isabelle and Schiex, Thomas and Barbe, Sophie},
+ title = {Fast search algorithms for computational protein design},
+ journal = {Journal of Computational Chemistry},
+ year = {2016},
+ volume = {37},
+ number = {12},
+ pages = {1048-1058},
+}
+
+
+
+%NMR
+
+@article {POOL,
+   author = {Tripathy, Chittaranjan and Zeng, Jianyang and Zhou, Pei and Donald, Bruce Randall},
+   title = {Protein Loop Closure Using Orientational Restraints from {NMR} Data},
+   journal = {Proteins: Structure, Function, and Bioinformatics},
+   year = {2012},
+   volume = {80},
+   number = {2},
+   pages = {433-453},
+}
+POOL doi:10.1002/prot.23207.
+
+
+%Antibiotic resistance
+
+@article{NDM1,
+ author = {Kumarasamy, Karthikeyan K. and others},
+ title = {Emergence of a new antibiotic resistance mechanism in {I}ndia, {P}akistan, and the {UK}: a molecular, biological, and epidemiological study},
+ journal = {The Lancet},
+ year = {2010},
+ volume = {10},
+ number = {9},
+ pages = {597-602},
+}
+
+%Auxin
+
+@article{2P1Q,
+ author = {Tan, Xu and Calder\'on-Villalobos, Luz Irina A. and Sharon, Michal and Zheng, Changxue and Robinson, Carol V. and Estelle, Mark and Zheng, Ning},
+ title = {Mechanism of auxin perception by the {TIR1} ubiquitin ligase},
+ journal = {Nature},
+ year = {2007},
+ volume = {446},
+ pages = {640-645},
+}
+
+@article{auxin_comb,
+ author = {Calder\'on-Villalobos, Luz Irina A. and others},
+ title = {A combinatorial {TIR1/AFB-Aux/IAA} co-receptor system for differential sensing of auxin},
+ journal = {Nature Chemical Biology},
+ year = {2012},
+ volume = {8},
+ number = {5},
+ pages = {477-485},
+}
+
+@article{degron,
+ author = {Ramos, Jason A. and Zenser, Nathan and Leyser, Ottoline and Callis, Judy},
+ title = {Rapid Degradation of Auxin/Indoleacetic Acid Proteins Requires Conserved Amino Acids of Domain {II} and Is Proteasome Dependent},
+ journal = {The Plant Cell},
+ year = {2001},
+ volume = {13},
+ number = {10},
+ pages = {2349-2360},
+}
+
+
+
+%Other math stuff
+@article{Stone-Weierstrass,
+ author = {Stone, M. H.},
+ title = {The Generalized {W}eierstrass Approximation Theorem},
+ journal = {Mathematics Magazine},
+ year = {1948},
+ volume = {21},
+ number = {4},
+ pages = {167-184},
+}
+
+
+@article{Bernstein_basis,
+ author = {Bernstein, S. N.},
+ title = {D\'emonstration du th\'eor\`eme de Weierstrass fond\'ee sur le calcul des probabilit\'es},
+ journal = {Communications de la Societ\'e Math\'ematique de Kharkoff},
+ year = {1912},
+ volume = {13},
+ pages = {1-2},
+}
+
+%Other CS stuff
+
+@book{CLRS,
+ author = {Cormen, Thomas H. and Leiserson, Charles E. and Rivest, Ronald L. and Stein, Clifford},
+ title = {Introduction to Algorithms},
+ year = {2009},
+ edition = {3rd},
+ address = {Cambridge, MA},
+ publisher = {MIT Press},
+} 
+
+@article{conj_grad,
+ author = {Hestenes, Magnus R. and Stiefel, Eduard},
+ title = {Methods of Conjugate Gradients for Solving Linear Systems},
+ journal = {Journal of Research of the National Bureau of Standards},
+ year = {1952},
+ volume = {49},
+ issue = {6},
+ pages = {409-436},
+}
+
+@book{num_opt,
+ author = {Nocedal, Jorge and Wright, Stephen J.},
+ title = {Numerical Optimization},
+ year = {2006},
+ edition = {2nd},
+ address = {Berlin},
+ publisher = {Springer-Verlag},
+} 
+
+@MISC{TSP_cuts,
+    author = {D Applegate and R Bixby and V Chvatal and W Cook},
+    title = {Finding Cuts In The {TSP}},
+    year = {1995}
+}
+
+@article{achterberg2005branching,
+  title={Branching rules revisited},
+  author={Achterberg, T. and Koch, T. and Martin, A.},
+  journal={Operations Research Letters},
+  volume={33},
+  number={1},
+  pages={42-54},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{branching_information_theory,
+  title={Information-theoretic approaches to branching in search},
+  author={Gilpin, A. and Sandholm, T.},
+  journal={Discrete Optimization},
+  volume={8},
+  number={2},
+  pages={147-159},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@inproceedings{embedded_constr_graphics,
+  title={Accessible animation and customizable graphics via simplicial configuration modeling},
+  author={Ngo, Tom and Cutrell, Doug and Dana, Jenny and Donald, Bruce and Loeb, Lorie and Zhu, Shunhui},
+  booktitle={Proceedings of the 27th annual conference on Computer graphics and interactive techniques},
+  pages={403-410},
+  year={2000},
+  organization={ACM Press/Addison-Wesley Publishing Co.}
+}
+
+@misc{embedded_constr_graphics_patent,
+  title={System for image manipulation and animation using embedded constraint graphics},
+  author={Ngo, J. Thomas and Donald, Bruce Randall},
+  year={1999},
+  month=aug # "~3",
+  publisher={Google Patents},
+  note={US Patent 5,933,150}
+}
+
+@inproceedings{constr_direct_manipulation,
+  title={Integrating constraints and direct manipulation},
+  author={Gleicher, Michael},
+  booktitle={Proceedings of the 1992 symposium on Interactive {3D} graphics},
+  pages={171-174},
+  year={1992},
+  organization={ACM}
+}
+
+
+
+
+
+%Other biochemistry stuff
+
+@article{p53_hotspot_mutants,
+  title={Hot-spot mutants of p53 core domain evince characteristic local structural changes},
+  author={Wong, Kam-Bo and DeDecker, Brian S. and Freund, Stefan M. V. and Proctor, Mark R. and Bycroft, Mark and Fersht, Alan R.},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={96},
+  number={15},
+  pages={8438-8442},
+  year={1999},
+  publisher={National Acad Sciences}
+}
+
+
+@article{robust_pol_FF,
+ author = {Kaminski, George A. and Stern, Harry A. and Berne, B. J. and Friesner, Richard A.},
+ title = { Development of an Accurate and Robust Polarizable Molecular Mechanics Force Field from ab Initio Quantum Chemistry},
+ journal = {Journal of Physical Chemistry A},
+ year = {2004},
+ volume = {108},
+ pages = {621-627},
+}
+
+@Article{BLOSUM62,
+	title = "Amino acid substitution matrices from protein blocks",
+	volume = "89",
+	number = "22",
+	journal = "Proc. Natl. Acad. Sci. U. S. A.",
+	author = "S. Henikoff and J. G. Henikoff",
+	month = nov,
+	year = "1992",
+	pages = "10915-10919"
+}
+
+@article{PISCES,
+	title = {{PISCES}: a protein sequence culling server},
+	volume = {19},
+	number = {12},
+	journal = {Bioinformatics},
+	author = {Wang, Guoli and Dunbrack, Roland L.},
+	year = {2003},
+	pages = {1589-1591},
+}
+
+@article{antibody_recognition_in_sera,
+ author = {Georgiev, I. S. and others},
+ title = {Delineating antibody recognition in polyclonal sera from patterns of {HIV}-1 isolate neutralization},
+ journal = {Science},
+ year = {2013},
+ volume = {340},
+ pages = {751-756},
+}
+
+@article{unliganded_trimer,
+ author = {Kwon, Young Do and Pancera, Marie and Acharya, Priyamvada and Georgiev, Ivelin S. and Crooks, Emma T. and Gorman, Jason and Joyce, M. Gordon and Guttman, Miklos and Ma, Xiaochu and Narpala, Sandeep and Soto, Cinque and Terry, Daniel S. and Yang, Yongping and Zhou, Tongqing and Ahlsen, Goran and Bailer, Robert T. and Chambers, Michael and Chuang, Gwo-Yu and Doria-Rose, Nicole A. and Druz, Aliaksandr and Hallen, Mark A. and Hamed, Adam and Kirys, Tatsiana and Louder, Mark K. and O'Dell, Sijy and Ofek, Gilad and Osawa, Keiko and Prabhakaran, Madhu and Sastry, Mallika and Stewart-Jones, Guillaume B. E. and Stuckey, Jonathan and Thomas, Paul V. and Tittley, Tishina and Williams, Constance and Zhang, Baoshan and Zhao, Hong and Zhou, Zhou and Donald, Bruce R. and Lee, Lawrence K. and Zolla-Pazner, Susan and Baxa, Ulrich and Sch{\"o}n, Arne and Freire, Ernesto and Shapiro, Lawrence and Lee, Kelly K. and Arthos, James and Munro, James B. and Blanchard, Scott C. and Mothes, Walther and Binley, James M. and McDermott, Adrian B. and Mascola, John R. and Kwong, Peter D.},
+ title = {Crystal structure, conformational fixation and entry-related interactions of mature ligand-free {HIV-1 Env}},
+ journal = {Nature Structural and Molecular Biology.},
+ year = {2015},
+ volume = {22},
+ pages = {522-531},
+}
+
+@article{liganded_trimer,
+ author = {Pancera, M. and others},
+ title = {Structure and immune recognition of trimeric pre-fusion {HIV-1 Env}},
+ journal = {Nature},
+ year = {2014},
+ volume = {514},
+ pages = {455-461},
+}
+
+@article{liganded_trimer_4.7A,
+  title={Crystal structure of a soluble cleaved {HIV}-1 envelope trimer},
+  author={Julien, Jean-Philippe and Cupo, Albert and Sok, Devin and Stanfield, Robyn L and Lyumkis, Dmitry and Deller, Marc C and Klasse, Per-Johan and Burton, Dennis R and Sanders, Rogier W and Moore, John P and others},
+  journal={Science},
+  volume={342},
+  number={6165},
+  pages={1477-1483},
+  year={2013},
+}
+
+@article{liganded_trimer_cryoEM,
+  title={Cryo-{EM} structure of a fully glycosylated soluble cleaved {HIV}-1 envelope trimer},
+  author={Lyumkis, Dmitry and Julien, Jean-Philippe and de Val, Natalia and Cupo, Albert and Potter, Clinton S and Klasse, Per-Johan and Burton, Dennis R and Sanders, Rogier W and Moore, John P and Carragher, Bridget and others},
+  journal={Science},
+  volume={342},
+  number={6165},
+  pages={1484-1490},
+  year={2013},
+}
+
+@incollection {HIV_seq,
+   author = {Korber, B.T. and Foley, B.T. and Kuiken, C.L. and Pillai, S.K. and Sodroski, J.G.},
+   booktitle = {Human Retroviruses and AIDS 1998: a Compilation and Analysis of Nucleic Acid and Amino Acid Sequences Part III},
+   editor = {Korber, B. and Kuiken, C.L. and Foley, B. and Hahn, B. and McCutchan, F. and Mellors, J. W. and Sodroski, J.},
+   publisher = {Los Alamos National Laboratory},
+   pages = {102-111},
+   year = {1998},
+}
+
+@article{b12,
+ author = {Burton, D. R. and others},
+ title = {Efficient neutralization of primary isolates of {HIV}-1 by a recombinant human monoclonal antibody},
+ journal = {Science},
+ year = {1994},
+ volume = {266},
+ pages = {1024-1027},
+}
+
+@article{35O22,
+ author = {Huang, J. and others},
+ title = {Broad and potent neutralization of {HIV}-1 by a human antibody that binds the gp41--gp120 interface},
+ journal = {Nature},
+ year = {2014},
+ volume = {515},
+ pages = {138-142},
+}
+
+@article{PGT135,
+ author = {Walker, L. M. and others},
+ title = {Broad neutralization coverage of HIV by multiple highly potent antibodies},
+ journal = {Nature},
+ year = {2011},
+ volume = {477},
+ pages = {466-470},
+}
+
+@article{447-52D,
+ author = {Zolla-Pazner, S. and others},
+ title = {The cross-clade neutralizing activity of a human monoclonal antibody is determined by the {GPGR V3} motif of {HIV} type 1},
+ journal = {AIDS Res. Hum. Retroviruses},
+ year = {2004},
+ volume = {20},
+ pages = {1254-1258},
+}
+
+@article{CH103,
+ author = {Liao, H.-X. and others},
+ title = {Co-evolution of a broadly neutralizing {HIV}-1 antibody and founder virus},
+ journal = {Nature},
+ year = {2013},
+ volume = {496},
+ pages = {469-476},
+}
+
+@article{b12_conserved_epitope,
+ author = {Zhou, T. and others},
+ title = {Structural definition of a conserved neutralization epitope on {HIV}-1 gp120},
+ journal = {Nature},
+ year = {2007},
+ volume = {445},
+ pages = {732-737},
+}
+
+@article{V3_negative_selection,
+ author = {Guenaga, J. and others},
+ title = {Well-ordered trimeric {HIV-1} subtype {B} and {C} soluble spike mimetics generated by negative selection display native-like properties},
+ journal = {PLoS Pathogens},
+ year = {2015},
+ volume = {11},
+ pages = {e1004570},
+}
+
+@article{BG505_SOSIP.664,
+ author = {Sanders, R. W. and others},
+ title = {A next-generation cleaved, soluble {HIV-1 Env} trimer, {BG505 SOSIP.664} gp140, expresses multiple epitopes for broadly neutralizing but not non-neutralizing antibodies},
+ journal = {PLoS Pathogens},
+ year = {2013},
+ volume = {9},
+ pages = {e1003618},
+}
+
+@book{art_MD,
+ author = {Rapaport, Dennis C.},
+ title = {The Art of Molecular Dynamics Simulation},
+ year = {2004},
+ edition = {2nd},
+ address = {Cambridge, England},
+ publisher = {Cambridge University Press},
+} 
+
+@article{MADAMM,
+ author = {Cerqueira, N. M. F. S. A. and Bras, N. F. and Fernandes, P. A. and Ramos, M. J.},
+ title = {MADAMM: A multistaged docking with an automated molecular modeling protocol},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2009},
+ volume = {74},
+ number = {1},
+ pages = {192-206},
+}
+
+%This is the citation for 3U7Y
+@article{G54W,
+ author = {Diskin, Ron and Scheid, Johannes F. and Marcovecchio, Paola M. and West, Jr., Anthony P. and Klein, Florian and Gao, Han and Gnanapragasam, Priyanthi N. P. and Abadir, Alexander and Seaman, Michael S. and Nussenzweig, Michel C. and Bjorkman, Pamela J.},
+ title = {Increasing the potency and breadth of an {HIV} antibody by using structure-based rational design},
+ journal = {Science},
+ year = {2011},
+ volume = {334},
+ number = {6060},
+ pages = {1289-1293},
+}
+
+@article{gp120_struct,
+ author = {Kwong, Peter D. and Wyatt, Richard and Robinson, James and Sweet, Raymond W. and Sodroski, Joseph and Hendrickson, Wayne A.},
+ title = {Structure of an {HIV} gp120 envelope glycoprotein in complex with the {CD}4 receptor and a neutralizing human antibody},
+ journal = {Nature},
+ year = {1998},
+ volume = {393},
+ pages = {648-659},
+}
+
+%This is the citation for structure 1N6M
+@article{NcdNK,
+ author = {Yun, Mikyung and Bronner, C. Eric and Park, Cheon-Gil and Cha, Sun-Shin and Park, Hee-Won and Endow, Sharyn A.},
+ title = {Rotation of the stalk/neck and one head in a new crystal structure of the kinesin motor protein, {N}cd},
+ journal = {The EMBO Journal},
+ year = {2003},
+ volume = {22},
+ pages = {5382-5389},
+}
+
+@article{PEPPM_gating,
+ author = {Liu, Sijiu and Lu, Zhibing and Han, Ying and Jia, Yong and Howard, Andrew and Dunaway-Mariano, Debra and Herzberg, Osnat},
+ title = {Conformational flexibility of {PEP} mutase},
+ journal = {Biochemistry},
+ year = {2004},
+ volume = {43},
+ number = {15},
+ pages = {4447-4453},
+}
+
+@article{T4_mut,
+ author = {Faber, H. R. and Matthews, B. W.},
+ title = {A mutant {T}4 lysozyme displays five different crystal conformations },
+ journal = {Nature},
+ year = {1990},
+ volume = {348},
+ pages = {263-266},
+}
+
+@article{KiNG,
+ author = {Chen, Vincent B. and Davis, Ian W. and Richardson, David C.},
+ title = {{KING (Kinemage, Next Generation)}: A versatile interactive molecular and scientific visualization program},
+ journal = {Protein Science},
+ year = {2009},
+ volume = {18},
+ number = {11},
+ pages = {2403-2409},
+}
+
+@article{Matt,
+    author = {Menke, Matthew AND Berger, Bonnie AND Cowen, Lenore},
+    title = {Matt: Local Flexibility Aids Protein Multiple Structure Alignment},
+    journal = {PLoS Computational Biology},
+    year = {2008},
+    volume = {4},
+    pages = {e10},
+ }
+
+@article{UNRES_folding,
+    author = {Liwo, Adam and Khalili, Mey and Scheraga, Harold A.},
+    title = {\textit{Ab initio} simulations of protein-folding pathways by molecular dynamics with the united-residue model of polypeptide chains},
+    journal = {Proceedings of the National Academy of Sciences of the USA},
+    year = {2005},
+    volume = {102},
+    number = {7},
+    pages = {2362-2367},
+ }
+
+@article{Ncd_Kar3_NK,
+    author = {Song, Hebok and Endow, Sharyn A.},
+    title = {Decoupling of nucleotide- and microtubule-binding sites in a kinesin mutant},
+    journal = {Nature},
+    year = {1998},
+    volume = {396},
+    pages = {587-590},
+ }
+ 
+ %My pre-design papers
+ 
+@article{gtub_spindle,
+  title={Fluorescence recovery kinetic analysis of $\gamma$-tubulin binding to the mitotic spindle},
+  author={Hallen, Mark A. and Ho, Jianghai and Yankel, Christine D. and Endow, Sharyn A.},
+  journal={Biophysical Journal},
+  volume={95},
+  number={6},
+  pages={3048-3058},
+  year={2008},
+}
+
+ @article{klp10a_meiosis,
+  title={A microtubule-destabilizing kinesin motor regulates spindle length and anchoring in oocytes},
+  author={Zou, Jianwei and Hallen, Mark A. and Yankel, Christine D. and Endow, Sharyn A.},
+  journal={The Journal of Cell Biology},
+  volume={180},
+  number={3},
+  pages={459-466},
+  year={2008},
+}
+ 
+@article{SAM_ozonolysis,
+  title={Synthesis of carboxylic acid monolayers by ozonolysis of 10-undecenyltrichlorosilane SAMs},
+  author={Hallen, Mark A. and Hallen, Hans D.},
+  journal={Journal of Physical Chemistry C},
+  volume={112},
+  number={6},
+  pages={2086-2090},
+  year={2008},
+}
+
+@article{spindle_microtubule_polarity,
+  title={Mature Drosophila meiosis I spindles comprise microtubules of mixed polarity},
+  author={Liang, Zhang-Yi and Hallen, Mark A. and Endow, Sharyn A.},
+  journal={Current Biology},
+  volume={19},
+  number={2},
+  pages={163-168},
+  year={2009},
+}
+
+@article{Ncd_spindle_headless_tailless,
+  title={Ncd motor binding and transport in the spindle},
+  author={Hallen, Mark A. and Liang, Zhang-Yi and Endow, Sharyn A.},
+  journal={Journal of Cell Science},
+  volume={121},
+  number={22},
+  pages={3834-3841},
+  year={2008},
+}
+ 
+@article{Ncd_FRET,
+    author = {Hallen, Mark A. and Liang, Zhang-Yi and Endow, Sharyn A.},
+    title = {Two-state displacement by the kinesin-14 {Ncd} stalk},
+    journal = {Biophysical Chemistry},
+    year = {2011},
+    volume = {154},
+    number = {2-3},
+    pages = {56-65},
+ } 
+ 
+ @article{FRAP_models,
+  title={Expanding the scope of quantitative FRAP analysis},
+  author={Hallen, Mark A. and Layton, Anita T.},
+  journal={Journal of Theoretical Biology},
+  volume={262},
+  number={2},
+  pages={295-305},
+  year={2010},
+}
+
+@article{spindle_model,
+  title={Anastral spindle assembly: a mathematical model},
+  author={Hallen, Mark A. and Endow, Sharyn A.},
+  journal={Biophysical Journal},
+  volume={97},
+  number={8},
+  pages={2191-2201},
+  year={2009},
+}
+
+@article{modified_gibbs_sampling,
+  title={Computation of steady-state probability distributions in stochastic models of cellular networks},
+  author={Hallen, Mark and Li, Bochong and Tanouchi, Yu and Tan, Cheemeng and West, Mike and You, Lingchong},
+  journal={PLoS Computational Biology},
+  volume={7},
+  number={10},
+  pages={e1002209},
+  year={2011},
+}
+
+@article{NcdYK,
+  title={Altered nucleotide-microtubule coupling and increased mechanical output by a kinesin mutant},
+  author={Liu, Hong-Lei and Hallen, Mark A. and Endow, Sharyn A.},
+  journal = {PLoS ONE},
+  volume = {7},
+  number = {10},
+  pages = {47148},
+  year={2012}
+}
+ 
+@article{gtub_meiotic_spindle,
+  title={Anastral spindle assembly and $\gamma$-tubulin in Drosophila oocytes},
+  author={Endow, Sharyn A and Hallen, Mark A},
+  journal={BMC cell biology},
+  volume={12},
+  number={1},
+  pages={1},
+  year={2011},
+  publisher={BioMed Central Ltd}
+}
+
+@article{SMTA,
+  title={Mass spectrometry-and lysine amidination-based protocol for thermodynamic analysis of protein folding and ligand binding interactions},
+  author={Xu, Ying and Falk, Irene N. and Hallen, Mark A. and Fitzgerald, Michael C.},
+  journal={Analytical Chemistry},
+  volume={83},
+  number={9},
+  pages={3555-3562},
+  year={2011},
+}
+
+%Structures
+
+@article{INstruct,
+ author = {Meyer, Michael J. and Das, Jishnu and Wang, Xiujuan and Yu, Haiyuan},
+ title = {{IN}struct: a database of high-quality 3{D} structurally resolved protein interactome networks},
+ journal = {Bioinformatics},
+ year = {2013},
+ volume = {29},
+ number = {12},
+ pages = {1577-1579},
+}
+
+@Unpublished{2ILB,
+ author = {{Joint Center For Structural Genomics (JCSG)}},
+ title = {CRYSTAL STRUCTURE OF TETRACENOMYCIN POLYKETIDE SYNTHESIS PROTEIN ({NP}\_636471.1) FROM \textit{{X}anthomonas campestris} AT 1.60 {{\AA}} RESOLUTION},
+ note = {Unpublished crystal structure, http://www.pdb.org/pdb/files/2ILB.pdb},
+ year = {2006},
+}
+
+@Unpublished{2BGX,
+ author = {Petrella, S. and Herman, R. and Pennartz, A. and Genereux, C. and Sauvage, E. and Joris, B. and Charlier, P.},
+ title = {CRYSTAL STRUCTURE OF {A}MI{D} FROM \textit{{E}scherichia coli}: A ZINC AMIDASE RELATED TO {A}MP{D} FROM \textit{{C}itrobacter freundii}, {T7} LYSOZYME AND {PGRP} DOMAINS},
+ note = {Unpublished crystal structure, http://www.pdb.org/pdb/files/2BGX.pdb},
+ year = {2005},
+}
+
+@article{2IXT,
+ author = {Almog, Orna and others},
+ title = {The crystal structures of the psychrophilic subtilisin {S}41 and the mesophilic subtilisin {S}ph reveal the same calcium-loaded state},
+ journal = {Proteins: Structure, Function, and Bioinformatics},
+ year = {2009},
+ volume = {74},
+ number = {2},
+ pages = {489-496},
+}
+
+@article{1E50,
+ author = {Warren, Alan J. and Bravo, Jer\'onimo and Williams, Roger L. and Rabbitts, Terence H.},
+ title = {Structural basis for the heterodimeric interaction between the acute leukaemia-associated transcription factors {AML1} and {CBF$\beta$}},
+ journal = {The EMBO Journal},
+ year = {2000},
+ volume = {19},
+ pages = {3004-3015},
+}
+
+@article{1UBQ,
+ author = {Vijay-Kumar, Senadhi and Bugg, Charles E. and Cook, William J.},
+ title = {Structure of ubiquitin refined at 1.8 {{\AA}}~resolution.},
+ journal = {Journal of Molecular Biology},
+ year = {1987},
+ volume = {194},
+ number = {3},
+ pages = {531-544},
+}
+
+@article{2NCD,
+ author = {Sablin, E. P. and Case, R. B. and Dai, S. C. and Hart, C. L. and Ruby, A. and Vale, R. D. and Fletterick, R. J.},
+ title = {Direction determination in the minus-end-directed kinesin motor ncd.},
+ journal = {Nature},
+ year = {1998},
+ volume = {395},
+ pages = {813-816},
+}
+
+@article{1A8J,
+ author = {Edmunson, Allen B. and Manion, Carl V.},
+ title = {Treatment of osteoarthritis with aspartame},
+ journal = {Clinical Pharmacology and Therapeutics},
+ year = {1998},
+ volume = {63},
+ pages = {580-593},
+}
+
+@article{BPTI_struct,
+ author = {Helland, Ronny and Otlewski, Jacek and Sundheim, Ottar and Dadlez, Michal and Smal{\aa}s, Arne O.},
+ title = {The crystal structures of the complexes between bovine $\beta$-trypsin and ten {P}$_1$ variants of {BPTI}},
+ journal = {Journal of Molecular Biology},
+ year = {1999},
+ volume = {287},
+ number = {5},
+ pages = {923-942},
+}
+
+@article{2WXX,
+ author = {Zhou, Aiwu and Carrell, Robin W. and Murphy, Michael P. and Wei, Zhenquan and Yan, Yahui and Stanley, Peter L. D. and Stein, Penelope E. and Pipkin, Fiona Broughton and Read, Randy J.},
+ title = {A redox switch in angiotensinogen modulates angiotensin release},
+ journal = {Nature},
+ year = {2010},
+ volume = {468},
+ pages = {108-111},
+}
+
+@article{2A5Y,
+ author = {Yan, Nieng and Chai, Jijie and Lee, Eui Seung and Gu, Lichuan and Liu, Qun and He, Jiaqing and Wu Jia-Wei and Kokel, David and Li, Huilin and Hao, Quan and Xue, Ding and Shi, Yigong},
+ title = {Structure of the {CED}-4--{CED}-9 complex provides insights into programmed cell death in \textit{{C}aenorhabditis elegans}},
+ journal = {Nature},
+ year = {2005},
+ volume = {437},
+ pages = {831-837},
+}
+
+@article{3LQR,
+ author = {Qi, Shiqian and Pang, Yuxuan and Hu, Qi and Liu, Qun and Li, Hua and Zhou, Yulian and He, Tianxi and Liang, Qionglin and Liu, Yexing and Yuan, Xiaoqiu and Luo, Guoan and Li, Huilin and Wang, Jiawei and Yan, Nieng and Shi, Yigong},
+ title = {Crystal Structure of the \textit{{C}aenorhabditis elegans} Apoptosome Reveals an Octameric Assembly of {CED}-4},
+ journal = {Cell},
+ year = {2010},
+ volume = {141},
+ number = {3},
+ pages = {446-457},
+}
+
+@article{1CC8,
+ author = {Rosenzweig, A. C. and Huffman, D. L. and Hou, M. Y. and Wernimont, A. K. and Pufahl, R. A. and O'Halloran, T. V.},
+ title = {Crystal structure of the {A}tx1 metallochaperone protein at 1.02 {A} resolution},
+ journal = {Structure},
+ year = {1999},
+ volume = {7},
+ number = {6},
+ pages = {605-617},
+}
+
+@article{2O9S,
+  title={Paxillin and ponsin interact in nascent costameres of muscle cells},
+  author={Gehmlich, Katja and Pinotsis, Nikos and Haye{\ss}, Katrin and van der Ven, Peter FM and Milting, Hendrik and El Banayosy, Aly and K{\"o}rfer, Reiner and Wilmanns, Matthias and Ehler, Elisabeth and F{\"u}rst, Dieter O.},
+  journal={Journal of Molecular Biology},
+  volume={369},
+  number={3},
+  pages={665-682},
+  year={2007},
+}
+
+@article{1L8R,
+  title={Structure of the retinal determination protein {D}achshund reveals a {DNA} binding motif},
+  author={Kim, Seung-Sup and Zhang, Rong-guang and Braunstein, Steve E. and Joachimiak, Andrzej and Cvekl, Ales and Hegde, Rashmi S.},
+  journal={Structure},
+  volume={10},
+  number={6},
+  pages={787-795},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{top4400,
+ author = {Read, Randy J. and others},
+ title = {A New Generation of Crystallographic Validation Tools for the Protein Data Bank},
+ journal = {Structure},
+ year = {2011},
+ volume = {19},
+ number = {10},
+ pages = {1395-1412},
+}
