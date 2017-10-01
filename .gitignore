@@ -1,8 +1,5 @@
-OSPREY3.log
-OSPREY3.aux
-OSPREY3.synctex.gz
-OSPREY3.bbl
-OSPREY3.blg
-introduction.tex.aux
-
-BBKS.log
+*.log
+*.aux
+*.synctex.gz
+*.bbl
+*.blg
