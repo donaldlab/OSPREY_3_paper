@@ -13,6 +13,15 @@
 \usepackage{xspace}
 \def\osprey{{\sc{osprey}}\xspace}
 
+\usepackage{listings}
+\lstset{
+	basicstyle=\footnotesize
+}
+
+\newcommand{\jj}[1]{\if\submissionMode0{\em\color{blue}(JJ: #1)}\else\fi}
+\newcommand{\jeff}[1]{\if\submissionMode0{\em\color{blue}(Jeff: #1)}\else\fi}
+
+
 %Submission guidelines for PLoS ONE: http://journals.plos.org/plosone/s/submission-guidelines
 
 \title{{\sc osprey} 3: Open-Source Protein Redesign for You, Refactored, with Powerful New Features}
@@ -29,11 +38,21 @@
 \section{Introduction}
 \input{introduction.tex}
 
-\section{New features}
+\section{New protein design algorithms in version 3}
 \input{LUTE.tex}
 \input{CATS.tex}
 \input{BBKS.tex}
+
+\jeff{Do we want to mention MPLP here?}
 %etc
+
+\section{Performance enhancements in version 3}
+\input{Astar.tex}
+\input{GPU.tex}
+
+\section{Python scripting improves ease-of-use}
+\input{python.tex}
+
 
 \bibliographystyle{plain}
 \bibliography{references}

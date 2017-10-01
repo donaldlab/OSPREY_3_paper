@@ -1,0 +1,2838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="159.98999mm"
+   height="215.70555mm"
+   viewBox="0 0 566.89367 764.31101"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gpu.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="176.07748"
+     inkscape:cy="485.02694"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-94.368288,-49.023272)">
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 416.52576,244.18862 -233.32677,0 0,-149.917318 466.65354,0 0,149.917318 -233.32677,0 z"
+       id="path4159" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,244.15319 -466.65354,0"
+       id="path4161" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,225.40909 -466.65354,0"
+       id="path4163" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,206.665 -466.65354,0"
+       id="path4165" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,187.92091 -466.65354,0"
+       id="path4167" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,169.21225 -466.65354,0"
+       id="path4169" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,150.46815 -466.65354,0"
+       id="path4171" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,131.72406 -466.65354,0"
+       id="path4173" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,112.97996 -466.65354,0"
+       id="path4175" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,94.235869 -466.65354,0"
+       id="path4177" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,249.46815 0,-5.31496"
+       id="path4179" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,249.46815 0,-5.31496"
+       id="path4181" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 235.03758,249.46815 0,-5.31496"
+       id="path4183" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 235.03758,249.46815 0,-5.31496"
+       id="path4185" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 286.87616,249.46815 0,-5.31496"
+       id="path4187" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 286.87616,249.46815 0,-5.31496"
+       id="path4189" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 338.75017,249.46815 0,-5.31496"
+       id="path4191" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 338.75017,249.46815 0,-5.31496"
+       id="path4193" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 390.55332,249.46815 0,-5.31496"
+       id="path4195" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 390.55332,249.46815 0,-5.31496"
+       id="path4197" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 442.42733,249.46815 0,-5.31496"
+       id="path4199" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 442.42733,249.46815 0,-5.31496"
+       id="path4201" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 494.26592,249.46815 0,-5.31496"
+       id="path4203" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 494.26592,249.46815 0,-5.31496"
+       id="path4205" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 546.13993,249.46815 0,-5.31496"
+       id="path4207" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 546.13993,249.46815 0,-5.31496"
+       id="path4209" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 597.97851,249.46815 0,-5.31496"
+       id="path4211" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 597.97851,249.46815 0,-5.31496"
+       id="path4213" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,249.46815 0,-5.31496"
+       id="path4215" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,249.46815 0,-5.31496"
+       id="path4217" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,244.15319 466.65354,0"
+       id="path4219" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,244.15319 5.31496,0"
+       id="path4221" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,244.15319 5.31496,0"
+       id="path4223" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,225.40909 5.31496,0"
+       id="path4225" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,225.40909 5.31496,0"
+       id="path4227" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,206.665 5.31496,0"
+       id="path4229" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,206.665 5.31496,0"
+       id="path4231" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,187.92091 5.31496,0"
+       id="path4233" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,187.92091 5.31496,0"
+       id="path4235" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,169.21225 5.31496,0"
+       id="path4237" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,169.21225 5.31496,0"
+       id="path4239" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,150.46815 5.31496,0"
+       id="path4241" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,150.46815 5.31496,0"
+       id="path4243" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,131.72406 5.31496,0"
+       id="path4245" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,131.72406 5.31496,0"
+       id="path4247" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,112.97996 5.31496,0"
+       id="path4249" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,112.97996 5.31496,0"
+       id="path4251" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,94.235869 5.31496,0"
+       id="path4253" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,94.235869 5.31496,0"
+       id="path4255" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,244.15319 0,-149.917321"
+       id="path4257" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 292.08482,244.15319 10.34646,0 0,-16.12205 -10.34646,0 0,16.12205 z"
+       id="path4259" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 240.2108,244.15319 10.38189,0 0,-9.60236 -10.38189,0 0,9.60236 z"
+       id="path4261" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 188.37222,244.15319 10.38189,0 0,-4.88977 -10.38189,0 0,4.88977 z"
+       id="path4263" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 457.98245,244.15319 10.34646,0 0,-134.32677 -10.34646,0 0,134.32677 z"
+       id="path4265" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 406.10844,244.15319 10.38189,0 0,-82.48819 -10.38189,0 0,82.48819 z"
+       id="path4267" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 354.30529,244.15319 10.38189,0 0,-42.55512 -10.38189,0 0,42.55512 z"
+       id="path4269" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 302.43128,244.15319 10.38188,0 0,-23.2441 -10.38188,0 0,23.2441 z"
+       id="path4271" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 250.59269,244.15319 10.38189,0 0,-12.93307 -10.38189,0 0,12.93307 z"
+       id="path4273" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 198.75411,244.15319 10.34646,0 0,-7.72441 -10.34646,0 0,7.72441 z"
+       id="path4275" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 468.32891,244.15319 10.38189,0 0,-27.1063 -10.38189,0 0,27.1063 z"
+       id="path4277" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 416.49033,244.15319 10.38189,0 0,-24.05906 -10.38189,0 0,24.05906 z"
+       id="path4279" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 364.68718,244.15319 10.34646,0 0,-18.17717 -10.34646,0 0,18.17717 z"
+       id="path4281" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 312.81316,244.15319 10.38189,0 0,-8.92914 -10.38189,0 0,8.92914 z"
+       id="path4283" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 260.97458,244.15319 10.34646,0 0,-4.53543 -10.34646,0 0,4.53543 z"
+       id="path4285" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 209.10057,244.15319 10.38189,0 0,-2.30315 -10.38189,0 0,2.30315 z"
+       id="path4287" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 634.26198,244.15319 10.38189,0 0,-123.41338 -10.38189,0 0,123.41338 z"
+       id="path4289" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 582.42339,244.15319 10.38189,0 0,-131.98819 -10.38189,0 0,131.98819 z"
+       id="path4291" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 530.58481,244.15319 10.34646,0 0,-128.55118 -10.34646,0 0,128.55118 z"
+       id="path4293" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 478.7108,244.15319 10.38189,0 0,-81.81496 -10.38189,0 0,81.81496 z"
+       id="path4295" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 426.87222,244.15319 10.34645,0 0,-47.83465 -10.34645,0 0,47.83465 z"
+       id="path4297" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 375.03364,244.15319 10.34645,0 0,-24.73228 -10.34645,0 0,24.73228 z"
+       id="path4299" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 323.19505,244.15319 10.34646,0 0,-11.83465 -10.34646,0 0,11.83465 z"
+       id="path4301" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 271.32104,244.15319 10.38189,0 0,-5.42126 -10.38189,0 0,5.42126 z"
+       id="path4303" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 219.48246,244.15319 10.38189,0 0,-2.83465 -10.38189,0 0,2.83465 z"
+       id="path4305" />
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4307"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4309">
+        <tspan
+           class="TextPosition"
+           x="205.8053"
+           y="264.27917"
+           id="tspan4311">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4313">1</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4315"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4317">
+        <tspan
+           class="TextPosition"
+           x="257.67932"
+           y="264.27917"
+           id="tspan4319">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4321">2</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4323"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4325">
+        <tspan
+           class="TextPosition"
+           x="309.51788"
+           y="264.27917"
+           id="tspan4327">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4329">4</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4331"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4333">
+        <tspan
+           class="TextPosition"
+           x="361.39191"
+           y="264.27917"
+           id="tspan4335">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4337">8</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4339"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4341">
+        <tspan
+           class="TextPosition"
+           x="409.97064"
+           y="264.27917"
+           id="tspan4343">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4345">16</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4347"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4349">
+        <tspan
+           class="TextPosition"
+           x="461.80923"
+           y="264.27917"
+           id="tspan4351">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4353">32</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4355"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4357">
+        <tspan
+           class="TextPosition"
+           x="513.68323"
+           y="264.27917"
+           id="tspan4359">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4361">64</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4363"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4365">
+        <tspan
+           class="TextPosition"
+           x="562.22656"
+           y="264.27917"
+           id="tspan4367">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4369">128</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4371"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4373">
+        <tspan
+           class="TextPosition"
+           x="614.10059"
+           y="264.27917"
+           id="tspan4375">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4377">256</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4379"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4381">
+        <tspan
+           class="TextPosition"
+           x="167.78561"
+           y="248.4406"
+           id="tspan4383">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4385">0</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4387"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4389">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="229.6965"
+           id="tspan4391">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4393">2000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4395"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4397">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="210.95241"
+           id="tspan4399">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4401">4000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4403"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4405">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="192.20831"
+           id="tspan4407">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4409">6000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4411"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4413">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="173.46422"
+           id="tspan4415">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4417">8000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4419"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4421">
+        <tspan
+           class="TextPosition"
+           x="141.52971"
+           y="154.72012"
+           id="tspan4423">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4425">10000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4427"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4429">
+        <tspan
+           class="TextPosition"
+           x="141.52971"
+           y="135.97603"
+           id="tspan4431">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4433">12000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4435"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4437">
+        <tspan
+           class="TextPosition"
+           x="141.52971"
+           y="117.23193"
+           id="tspan4439">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4441">14000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4443"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4445">
+        <tspan
+           class="TextPosition"
+           x="141.52971"
+           y="98.487839"
+           id="tspan4447">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4449">16000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4451"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:16.26377869px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="459px"
+         font-weight="400"
+         id="tspan4453">
+        <tspan
+           class="TextPosition"
+           x="239.14781"
+           y="73.897285"
+           id="tspan4455">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4457">Residue Pair Minimization Performance</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4459"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:13.74803162px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="388px"
+         font-weight="400"
+         id="tspan4461">
+        <tspan
+           class="TextPosition"
+           x="332.44308"
+           y="87.255554"
+           id="tspan4463">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4465">235 atom pairs</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 193.82892,108.83429 -3.72048,0 0,-7.47637 7.47638,0 0,7.47637 -3.7559,0 z"
+       id="path4467" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 193.82892,126.72799 -3.72048,0 0,-7.47637 7.47638,0 0,7.47637 -3.7559,0 z"
+       id="path4469" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 193.82892,144.62169 -3.72048,0 0,-7.47637 7.47638,0 0,7.47637 -3.7559,0 z"
+       id="path4471" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 193.82892,162.5154 -3.72048,0 0,-7.47638 7.47638,0 0,7.47638 -3.7559,0 z"
+       id="path4473" />
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4475"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4477">
+        <tspan
+           class="TextPosition"
+           x="201.12813"
+           y="109.33036"
+           id="tspan4479">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4481">Desktop CPU: AMD A8-6600K</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4483"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4485">
+        <tspan
+           class="TextPosition"
+           x="201.12813"
+           y="127.22406"
+           id="tspan4487">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4489">Server CPUs: Dual Intel Xeon E5-2640 v4</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4491"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4493">
+        <tspan
+           class="TextPosition"
+           x="201.12813"
+           y="145.11775"
+           id="tspan4495">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4497">Desktop GPU: Nvidia GeForce GTX 1070</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4499"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4501">
+        <tspan
+           class="TextPosition"
+           x="201.12813"
+           y="163.01146"
+           id="tspan4503">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4505">Server GPU: Nvidia Tesla P100</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4507"
+       x="92.206871"
+       y="49.023273">
+      <tspan
+         style="font-weight:400;font-size:11.26771641px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="318px"
+         font-weight="400"
+         id="tspan4509">
+        <tspan
+           class="TextPosition"
+           x="330.52969"
+           y="285.68076"
+           id="tspan4511">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4513">Concurrent Minimizations</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text4515"
+       x="-275.05084"
+       y="-70.253754">
+      <tspan
+         style="font-weight:400;font-size:11.26771641px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="318px"
+         font-weight="400"
+         id="tspan4517">
+        <tspan
+           class="TextPosition"
+           x="-243.26736"
+           y="123.99033"
+           id="tspan4519">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4521">Minimizations per Second</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 416.52576,504.18859 -233.32677,0 0,-149.91732 466.65354,0 0,149.91732 -233.32677,0 z"
+       id="path4718" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,504.15316 -466.65354,0"
+       id="path4720" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,474.14135 -466.65354,0"
+       id="path4722" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,444.16497 -466.65354,0"
+       id="path4724" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,414.18859 -466.65354,0"
+       id="path4726" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,384.21221 -466.65354,0"
+       id="path4728" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,354.23584 -466.65354,0"
+       id="path4730" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,509.46812 0,-5.31496"
+       id="path4732" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,509.46812 0,-5.31496"
+       id="path4734" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 235.03758,509.46812 0,-5.31496"
+       id="path4736" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 235.03758,509.46812 0,-5.31496"
+       id="path4738" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 286.87616,509.46812 0,-5.31496"
+       id="path4740" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 286.87616,509.46812 0,-5.31496"
+       id="path4742" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 338.75017,509.46812 0,-5.31496"
+       id="path4744" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 338.75017,509.46812 0,-5.31496"
+       id="path4746" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 390.55332,509.46812 0,-5.31496"
+       id="path4748" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 390.55332,509.46812 0,-5.31496"
+       id="path4750" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 442.42733,509.46812 0,-5.31496"
+       id="path4752" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 442.42733,509.46812 0,-5.31496"
+       id="path4754" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 494.26592,509.46812 0,-5.31496"
+       id="path4756" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 494.26592,509.46812 0,-5.31496"
+       id="path4758" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 546.13993,509.46812 0,-5.31496"
+       id="path4760" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 546.13993,509.46812 0,-5.31496"
+       id="path4762" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 597.97851,509.46812 0,-5.31496"
+       id="path4764" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 597.97851,509.46812 0,-5.31496"
+       id="path4766" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,509.46812 0,-5.31496"
+       id="path4768" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,509.46812 0,-5.31496"
+       id="path4770" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,504.15316 466.65354,0"
+       id="path4772" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,504.15316 5.31496,0"
+       id="path4774" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,504.15316 5.31496,0"
+       id="path4776" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,474.14135 5.31496,0"
+       id="path4778" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,474.14135 5.31496,0"
+       id="path4780" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,444.16497 5.31496,0"
+       id="path4782" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,444.16497 5.31496,0"
+       id="path4784" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,414.18859 5.31496,0"
+       id="path4786" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,414.18859 5.31496,0"
+       id="path4788" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,384.21221 5.31496,0"
+       id="path4790" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,384.21221 5.31496,0"
+       id="path4792" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,354.23584 5.31496,0"
+       id="path4794" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,354.23584 5.31496,0"
+       id="path4796" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,504.15316 0,-149.91732"
+       id="path4798" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 292.08482,504.15316 10.34646,0 0,-5.91733 -10.34646,0 0,5.91733 z"
+       id="path4800" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 240.2108,504.15316 10.38189,0 0,-3.93307 -10.38189,0 0,3.93307 z"
+       id="path4802" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 188.37222,504.15316 10.38189,0 0,-2.01969 -10.38189,0 0,2.01969 z"
+       id="path4804" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 457.98245,504.15316 10.34646,0 0,-70.54725 -10.34646,0 0,70.54725 z"
+       id="path4806" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 406.10844,504.15316 10.38189,0 0,-53.50394 -10.38189,0 0,53.50394 z"
+       id="path4808" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 354.30529,504.15316 10.38189,0 0,-28.27559 -10.38189,0 0,28.27559 z"
+       id="path4810" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 302.43128,504.15316 10.38188,0 0,-15.66142 -10.38188,0 0,15.66142 z"
+       id="path4812" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 250.59269,504.15316 10.38189,0 0,-8.04331 -10.38189,0 0,8.04331 z"
+       id="path4814" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 198.75411,504.15316 10.34646,0 0,-4.07481 -10.34646,0 0,4.07481 z"
+       id="path4816" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 468.32891,504.15316 10.38189,0 0,-61.93701 -10.38189,0 0,61.93701 z"
+       id="path4818" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 416.49033,504.15316 10.38189,0 0,-51.02362 -10.38189,0 0,51.02362 z"
+       id="path4820" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 364.68718,504.15316 10.34646,0 0,-27.49607 -10.34646,0 0,27.49607 z"
+       id="path4822" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 312.81316,504.15316 10.38189,0 0,-13.8189 -10.38189,0 0,13.8189 z"
+       id="path4824" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 260.97458,504.15316 10.34646,0 0,-7.44095 -10.34646,0 0,7.44095 z"
+       id="path4826" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 209.10057,504.15316 10.38189,0 0,-3.93307 -10.38189,0 0,3.93307 z"
+       id="path4828" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 634.26198,504.15316 10.38189,0 0,-137.44488 -10.38189,0 0,137.44488 z"
+       id="path4830" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 582.42339,504.15316 10.38189,0 0,-137.97638 -10.38189,0 0,137.97638 z"
+       id="path4832" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 530.58481,504.15316 10.34646,0 0,-130.9252 -10.34646,0 0,130.9252 z"
+       id="path4834" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 478.7108,504.15316 10.38189,0 0,-73.34646 -10.38189,0 0,73.34646 z"
+       id="path4836" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 426.87222,504.15316 10.34645,0 0,-39.50788 -10.34645,0 0,39.50788 z"
+       id="path4838" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 375.03364,504.15316 10.34645,0 0,-20.23229 -10.34645,0 0,20.23229 z"
+       id="path4840" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 323.19505,504.15316 10.34646,0 0,-10.55906 -10.34646,0 0,10.55906 z"
+       id="path4842" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 271.32104,504.15316 10.38189,0 0,-7.22835 -10.38189,0 0,7.22835 z"
+       id="path4844" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 219.48246,504.15316 10.38189,0 0,-3.61418 -10.38189,0 0,3.61418 z"
+       id="path4846" />
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4848"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4850">
+        <tspan
+           class="TextPosition"
+           x="205.8053"
+           y="524.27911"
+           id="tspan4852">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4854">1</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4856"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4858">
+        <tspan
+           class="TextPosition"
+           x="257.67932"
+           y="524.27911"
+           id="tspan4860">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4862">2</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4864"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4866">
+        <tspan
+           class="TextPosition"
+           x="309.51788"
+           y="524.27911"
+           id="tspan4868">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4870">4</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4872"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4874">
+        <tspan
+           class="TextPosition"
+           x="361.39191"
+           y="524.27911"
+           id="tspan4876">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4878">8</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4880"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4882">
+        <tspan
+           class="TextPosition"
+           x="409.97064"
+           y="524.27911"
+           id="tspan4884">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4886">16</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4888"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4890">
+        <tspan
+           class="TextPosition"
+           x="461.80923"
+           y="524.27911"
+           id="tspan4892">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4894">32</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4896"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4898">
+        <tspan
+           class="TextPosition"
+           x="513.68323"
+           y="524.27911"
+           id="tspan4900">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4902">64</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4904"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4906">
+        <tspan
+           class="TextPosition"
+           x="562.22656"
+           y="524.27911"
+           id="tspan4908">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4910">128</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4912"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4914">
+        <tspan
+           class="TextPosition"
+           x="614.10059"
+           y="524.27911"
+           id="tspan4916">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4918">256</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4920"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4922">
+        <tspan
+           class="TextPosition"
+           x="167.78561"
+           y="508.44055"
+           id="tspan4924">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4926">0</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4928"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4930">
+        <tspan
+           class="TextPosition"
+           x="154.63994"
+           y="478.42874"
+           id="tspan4932">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4934">500</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4936"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4938">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="448.45236"
+           id="tspan4940">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4942">1000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4944"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4946">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="418.44055"
+           id="tspan4948">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4950">1500</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4952"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4954">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="388.46417"
+           id="tspan4956">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4958">2000</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4960"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4962">
+        <tspan
+           class="TextPosition"
+           x="148.08482"
+           y="358.48779"
+           id="tspan4964">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4966">2500</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4968"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:16.26377869px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="459px"
+         font-weight="400"
+         id="tspan4970">
+        <tspan
+           class="TextPosition"
+           x="239.18324"
+           y="333.96811"
+           id="tspan4972">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4974">Small Conformation Minimization Performance</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4976"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:13.74803162px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="388px"
+         font-weight="400"
+         id="tspan4978">
+        <tspan
+           class="TextPosition"
+           x="332.51395"
+           y="347.25552"
+           id="tspan4980">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4982">28,680 atom pairs</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 196.09663,373.51143 -3.72047,0 0,-7.47638 7.47638,0 0,7.47638 -3.75591,0 z"
+       id="path4984" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 196.09663,403.13347 -3.72047,0 0,-7.47637 7.47638,0 0,7.47637 -3.75591,0 z"
+       id="path4986" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 196.09663,432.72009 -3.72047,0 0,-7.44095 7.47638,0 0,7.44095 -3.75591,0 z"
+       id="path4988" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 196.09663,462.34213 -3.72047,0 0,-7.47637 7.47638,0 0,7.47637 -3.75591,0 z"
+       id="path4990" />
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text4992"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan4994">
+        <tspan
+           class="TextPosition"
+           x="203.39584"
+           y="374.00748"
+           id="tspan4996">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan4998">Desktop CPU: AMD A8-6600K</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5000"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5002">
+        <tspan
+           class="TextPosition"
+           x="203.39584"
+           y="403.62955"
+           id="tspan5004">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5006">Server CPUs: Dual Intel Xeon E5-2640 v4</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5008"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5010">
+        <tspan
+           class="TextPosition"
+           x="203.39584"
+           y="433.21616"
+           id="tspan5012">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5014">Desktop GPU: Nvidia GeForce GTX 1070</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5016"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5018">
+        <tspan
+           class="TextPosition"
+           x="203.39584"
+           y="462.8382"
+           id="tspan5020">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5022">Server GPU: Nvidia Tesla P100</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5024"
+       x="92.206871"
+       y="309.02325">
+      <tspan
+         style="font-weight:400;font-size:11.26771641px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="318px"
+         font-weight="400"
+         id="tspan5026">
+        <tspan
+           class="TextPosition"
+           x="333.78955"
+           y="545.68073"
+           id="tspan5028">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5030">Concurrent Minimizations</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text5032"
+       x="-541.6059"
+       y="-70.253754">
+      <tspan
+         style="font-weight:400;font-size:11.26771641px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="318px"
+         font-weight="400"
+         id="tspan5034">
+        <tspan
+           class="TextPosition"
+           x="-503.26733"
+           y="123.99033"
+           id="tspan5036">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5038">Minimizations per Second</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 416.52576,764.18861 -233.32677,0 0,-149.91732 466.65354,0 0,149.91732 -233.32677,0 z"
+       id="path5214" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,764.15318 -466.65354,0"
+       id="path5216" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,739.13743 -466.65354,0"
+       id="path5218" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,714.15711 -466.65354,0"
+       id="path5220" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,689.21223 -466.65354,0"
+       id="path5222" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,664.19649 -466.65354,0"
+       id="path5224" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,639.21617 -466.65354,0"
+       id="path5226" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,614.23586 -466.65354,0"
+       id="path5228" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,769.46814 0,-5.31496"
+       id="path5230" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,769.46814 0,-5.31496"
+       id="path5232" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 235.03758,769.46814 0,-5.31496"
+       id="path5234" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 235.03758,769.46814 0,-5.31496"
+       id="path5236" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 286.87616,769.46814 0,-5.31496"
+       id="path5238" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 286.87616,769.46814 0,-5.31496"
+       id="path5240" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 338.75017,769.46814 0,-5.31496"
+       id="path5242" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 338.75017,769.46814 0,-5.31496"
+       id="path5244" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 390.55332,769.46814 0,-5.31496"
+       id="path5246" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 390.55332,769.46814 0,-5.31496"
+       id="path5248" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 442.42733,769.46814 0,-5.31496"
+       id="path5250" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 442.42733,769.46814 0,-5.31496"
+       id="path5252" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 494.26592,769.46814 0,-5.31496"
+       id="path5254" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 494.26592,769.46814 0,-5.31496"
+       id="path5256" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 546.13993,769.46814 0,-5.31496"
+       id="path5258" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 546.13993,769.46814 0,-5.31496"
+       id="path5260" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 597.97851,769.46814 0,-5.31496"
+       id="path5262" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 597.97851,769.46814 0,-5.31496"
+       id="path5264" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,769.46814 0,-5.31496"
+       id="path5266" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 649.85253,769.46814 0,-5.31496"
+       id="path5268" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,764.15318 466.65354,0"
+       id="path5270" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,764.15318 5.31496,0"
+       id="path5272" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,764.15318 5.31496,0"
+       id="path5274" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,739.13743 5.31496,0"
+       id="path5276" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,739.13743 5.31496,0"
+       id="path5278" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,714.15711 5.31496,0"
+       id="path5280" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,714.15711 5.31496,0"
+       id="path5282" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,689.21223 5.31496,0"
+       id="path5284" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,689.21223 5.31496,0"
+       id="path5286" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,664.19649 5.31496,0"
+       id="path5288" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,664.19649 5.31496,0"
+       id="path5290" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,639.21617 5.31496,0"
+       id="path5292" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,639.21617 5.31496,0"
+       id="path5294" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,614.23586 5.31496,0"
+       id="path5296" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 177.88403,614.23586 5.31496,0"
+       id="path5298" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:0.99999213;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 183.19899,764.15318 0,-149.91732"
+       id="path5300" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 292.08482,764.15318 10.34646,0 0,-4.78347 -10.34646,0 0,4.78347 z"
+       id="path5302" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 240.2108,764.15318 10.38189,0 0,-3.61418 -10.38189,0 0,3.61418 z"
+       id="path5304" />
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 188.37222,764.15318 10.38189,0 0,-1.91339 -10.38189,0 0,1.91339 z"
+       id="path5306" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 457.98245,764.15318 10.34646,0 0,-63.07087 -10.34646,0 0,63.07087 z"
+       id="path5308" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 406.10844,764.15318 10.38189,0 0,-45.6378 -10.38189,0 0,45.6378 z"
+       id="path5310" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 354.30529,764.15318 10.38189,0 0,-25.05118 -10.38189,0 0,25.05118 z"
+       id="path5312" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 302.43128,764.15318 10.38188,0 0,-12.22441 -10.38188,0 0,12.22441 z"
+       id="path5314" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 250.59269,764.15318 10.38189,0 0,-6.98032 -10.38189,0 0,6.98032 z"
+       id="path5316" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 198.75411,764.15318 10.34646,0 0,-4.00394 -10.34646,0 0,4.00394 z"
+       id="path5318" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 468.32891,764.15318 10.38189,0 0,-53.18504 -10.38189,0 0,53.18504 z"
+       id="path5320" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 416.49033,764.15318 10.38189,0 0,-44.85827 -10.38189,0 0,44.85827 z"
+       id="path5322" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 364.68718,764.15318 10.34646,0 0,-32.74016 -10.34646,0 0,32.74016 z"
+       id="path5324" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 312.81316,764.15318 10.38189,0 0,-16.93701 -10.38189,0 0,16.93701 z"
+       id="path5326" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 260.97458,764.15318 10.34646,0 0,-8.85827 -10.34646,0 0,8.85827 z"
+       id="path5328" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 209.10057,764.15318 10.38189,0 0,-4.57087 -10.38189,0 0,4.57087 z"
+       id="path5330" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 634.26198,764.15318 10.38189,0 0,-138.04724 -10.38189,0 0,138.04724 z"
+       id="path5332" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 582.42339,764.15318 10.38189,0 0,-133.33465 -10.38189,0 0,133.33465 z"
+       id="path5334" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 530.58481,764.15318 10.34646,0 0,-113.45669 -10.34646,0 0,113.45669 z"
+       id="path5336" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 478.7108,764.15318 10.38189,0 0,-84.47244 -10.38189,0 0,84.47244 z"
+       id="path5338" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 426.87222,764.15318 10.34645,0 0,-45.3189 -10.34645,0 0,45.3189 z"
+       id="path5340" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 375.03364,764.15318 10.34645,0 0,-23.42126 -10.34645,0 0,23.42126 z"
+       id="path5342" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 323.19505,764.15318 10.34646,0 0,-12.22441 -10.34646,0 0,12.22441 z"
+       id="path5344" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 271.32104,764.15318 10.38189,0 0,-8.32677 -10.38189,0 0,8.32677 z"
+       id="path5346" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 219.48246,764.15318 10.38189,0 0,-4.42914 -10.38189,0 0,4.42914 z"
+       id="path5348" />
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5350"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5352">
+        <tspan
+           class="TextPosition"
+           x="205.8053"
+           y="784.27917"
+           id="tspan5354">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5356">1</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5358"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5360">
+        <tspan
+           class="TextPosition"
+           x="257.67932"
+           y="784.27917"
+           id="tspan5362">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5364">2</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5366"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5368">
+        <tspan
+           class="TextPosition"
+           x="309.51788"
+           y="784.27917"
+           id="tspan5370">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5372">4</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5374"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5376">
+        <tspan
+           class="TextPosition"
+           x="361.39191"
+           y="784.27917"
+           id="tspan5378">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5380">8</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5382"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5384">
+        <tspan
+           class="TextPosition"
+           x="409.97064"
+           y="784.27917"
+           id="tspan5386">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5388">16</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5390"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5392">
+        <tspan
+           class="TextPosition"
+           x="461.80923"
+           y="784.27917"
+           id="tspan5394">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5396">32</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5398"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5400">
+        <tspan
+           class="TextPosition"
+           x="513.68323"
+           y="784.27917"
+           id="tspan5402">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5404">64</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5406"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5408">
+        <tspan
+           class="TextPosition"
+           x="562.22656"
+           y="784.27917"
+           id="tspan5410">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5412">128</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5414"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5416">
+        <tspan
+           class="TextPosition"
+           x="614.10059"
+           y="784.27917"
+           id="tspan5418">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5420">256</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5422"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5424">
+        <tspan
+           class="TextPosition"
+           x="167.78561"
+           y="768.44055"
+           id="tspan5426">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5428">0</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5430"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5432">
+        <tspan
+           class="TextPosition"
+           x="161.23048"
+           y="743.4248"
+           id="tspan5434">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5436">10</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5438"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5440">
+        <tspan
+           class="TextPosition"
+           x="161.23048"
+           y="718.44452"
+           id="tspan5442">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5444">20</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5446"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5448">
+        <tspan
+           class="TextPosition"
+           x="161.23048"
+           y="693.46417"
+           id="tspan5450">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5452">30</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5454"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5456">
+        <tspan
+           class="TextPosition"
+           x="161.23048"
+           y="668.44843"
+           id="tspan5458">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5460">40</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5462"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5464">
+        <tspan
+           class="TextPosition"
+           x="161.23048"
+           y="643.46814"
+           id="tspan5466">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5468">50</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5470"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5472">
+        <tspan
+           class="TextPosition"
+           x="161.23048"
+           y="618.48785"
+           id="tspan5474">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5476">60</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5478"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:16.26377869px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="459px"
+         font-weight="400"
+         id="tspan5480">
+        <tspan
+           class="TextPosition"
+           x="239.14781"
+           y="594.18073"
+           id="tspan5482">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5484">Large Conformation Minimization Performance</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5486"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:13.74803162px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="388px"
+         font-weight="400"
+         id="tspan5488">
+        <tspan
+           class="TextPosition"
+           x="332.51395"
+           y="607.25555"
+           id="tspan5490">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5492">304,623 atom pairs</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <path
+       style="fill:#004586;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 199.03758,629.43664 -3.72048,0 0,-7.47637 7.47638,0 0,7.47637 -3.7559,0 z"
+       id="path5494" />
+    <path
+       style="fill:#ff420e;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 199.03758,654.48782 -3.72048,0 0,-7.47637 7.47638,0 0,7.47637 -3.7559,0 z"
+       id="path5496" />
+    <path
+       style="fill:#ffd320;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 199.03758,679.53901 -3.72048,0 0,-7.47638 7.47638,0 0,7.47638 -3.7559,0 z"
+       id="path5498" />
+    <path
+       style="fill:#579d1c;stroke:none;stroke-width:28.22200012;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       d="m 199.03758,704.55475 -3.72048,0 0,-7.47638 7.47638,0 0,7.47638 -3.7559,0 z"
+       id="path5500" />
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5502"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5504">
+        <tspan
+           class="TextPosition"
+           x="206.33679"
+           y="629.93268"
+           id="tspan5506">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5508">Desktop CPU: AMD A8-6600K</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5510"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5512">
+        <tspan
+           class="TextPosition"
+           x="206.33679"
+           y="654.98389"
+           id="tspan5514">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5516">Server CPUs: Dual Intel Xeon E5-2640 v4</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5518"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5520">
+        <tspan
+           class="TextPosition"
+           x="206.33679"
+           y="680.0351"
+           id="tspan5522">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5524">Desktop GPU: Nvidia GeForce GTX 1070</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5526"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:12.50787354px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="353px"
+         font-weight="400"
+         id="tspan5528">
+        <tspan
+           class="TextPosition"
+           x="206.33679"
+           y="705.05084"
+           id="tspan5530">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5532">Server GPU: Nvidia Tesla P100</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       id="text5534"
+       x="92.206871"
+       y="569.02325">
+      <tspan
+         style="font-weight:400;font-size:11.26771641px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="318px"
+         font-weight="400"
+         id="tspan5536">
+        <tspan
+           class="TextPosition"
+           x="340.3801"
+           y="805.68073"
+           id="tspan5538">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5540">Concurrent Minimizations</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text
+       style="font-size:0.42519683px;stroke-width:28.22200012;stroke-linejoin:round"
+       class="TextShape"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text5542"
+       x="-814.75159"
+       y="-70.253754">
+      <tspan
+         style="font-weight:400;font-size:11.26771641px;font-family:'Liberation Sans'"
+         class="TextParagraph"
+         font-size="318px"
+         font-weight="400"
+         id="tspan5544">
+        <tspan
+           class="TextPosition"
+           x="-763.26733"
+           y="123.99033"
+           id="tspan5546">
+          <tspan
+             style="fill:#000000;stroke:none"
+             id="tspan5548">Minimizations per Second</tspan>
+        </tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
