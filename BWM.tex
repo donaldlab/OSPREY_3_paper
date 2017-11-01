@@ -1,4 +1,3 @@
-\def\bwmstar{BWM$^*$}
 \def\Oh{$\mathcal{O}$}
 \subsection{\bwmstar: Exploiting locality of protein energetics to efficiently compute the GMEC}
 
@@ -9,4 +8,4 @@ Because energy decreases as a function of distance, many protein design algorith
 
 \bwmstar enumerates a gap-free list of conformations in order of increasing sparse energy. Because this list is gap-free, \bwmstar not only computes the GMEC of the sparse energy function, but also recovers the GMEC of the full energy function, as shown in~\cite{BWM_JCB}. By enumerating all conformations within the provable sparse energy bound between the sparse and full GMEC, \bwmstar computes a list of conformations which is guaranteed to contain the full GMEC, as well as the sparse GMEC.
 
-Thus, in practice, \bwmstar circumvents the worst-case complexity of traditional methods such as A$^*$ for designs with sparse energy functions, computing the sparse GMEC in \Oh$(nw^2q^{\frac{3}{2}w})$ time, but enumerates each additional conformation in merely \Oh$(n\log q)$ time, which is up to three orders of magnitude faster than traditional A$^*$ in practice.
+Thus, in practice, \bwmstar circumvents the worst-case complexity of traditional methods such as \as for designs with sparse energy functions, computing the sparse GMEC in \Oh$(nw^2q^{\frac{3}{2}w})$ time, but enumerates each additional conformation in merely \Oh$(n\log q)$ time, which is up to three orders of magnitude faster than traditional \as in practice.
