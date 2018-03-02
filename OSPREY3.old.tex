@@ -1,0 +1,102 @@
+\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{xspace}
+\usepackage{amssymb}
+\usepackage{cite}
+\usepackage{setspace}
+
+\usepackage{xcolor}
+\usepackage{xspace}
+\def\osprey{{\sc{osprey}}\xspace}
+\def\bwmstar{BWM$^*$}
+\def\as{\textit{$A^*$}\xspace}
+\def\ks{\textit{$K^*$}\xspace}
+\def\ka{\textit{$K_a$}\xspace}
+\def\bbks{\textit{BBK$^*$}\xspace}
+
+
+\usepackage{listings}
+\lstset{
+	basicstyle=\footnotesize
+}
+\def\submissionMode{0}
+\newcommand{\jj}[1]{\if\submissionMode0{\em\color{blue}(JJ: #1)}\else\fi}
+\newcommand{\jeff}[1]{\if\submissionMode0{\em\color{blue}(Jeff: #1)}\else\fi}
+\newcommand{\suggestion}[1]{\if\submissionMode0{\color{green}\textbf{#1}}\else\fi}
+\newcommand{\anna}[1]{\if\submissionMode0{\em\color{purple}(Anna: #1)}\else\fi}
+
+
+%Submission guidelines for PLoS ONE: http://journals.plos.org/plosone/s/submission-guidelines
+
+\title{{\sc osprey} 3: Open-Source Protein Redesign for You, Refactored, with Powerful New Features}
+\author{Mark A. Hallen$^{*,1,3}$, Jeffrey W. Martin$^{*,1}$, Adegoke Ojewole$^{\dagger,4}$, \\
+Jonathan D. Jou$^{\dagger,1}$, Anna U. Lowegard$^4$, Marcel S. Frenkel$^5$, Pablo Gainza$^1$, \\
+Hunter M. Nisonoff$^1$, Aditya Mukund$^1$, Siyu Wang$^4$, Graham T. Holt$^4$, David Zhou$^1$, \\
+Elizabeth Dowd$^1$, and Bruce R. Donald$^{1,2,5}$}
+%\date{}							% Activate to display a given date or no date
+
+\begin{document}
+
+%Draft preamble
+\if\submissionMode0
+{
+\textbf{This is a draft of the OSPREY 3.0 release paper. 
+\jj{Comments from a particular author are indicated like this.}
+Please read and give comments! In particular, please provide suggestions and comments regarding the following issues:
+\begin{enumerate}
+\item BWM*: JJ has implemented BWM* in a branch of OSPREY 3.0 at this point, but hasn't made it available through the python interface. Should this be a priority?
+\item MPLP: Jeff wants to know where we should mention the MPLP bounding implementation, which Hunter and Pablo worked on. This would be the first mention of the work in OSPREY, I believe.
+\item Figures: which figures should we add or make?
+\end{enumerate}
+}
+\newpage
+}\else\fi
+
+\maketitle
+\hspace{-0.25in}$^*,^\dagger$ These authors contributed equally \\
+Departments of $^1$ Computer Science and $^2$ Chemistry, Duke University, Durham, NC 27708 \\
+$^3$ Toyota Technological Institute at Chicago, Chicago, IL 60637 \\
+$^4$ Program in Computational Biology and Bioinformatics and $^5$ Department of Biochemistry, Duke University Medical Center, Durham, NC 27710
+
+%\section{}
+%\subsection{}
+
+\if\submissionMode1\singlespacing\else\doublespacing\fi
+
+\section{Abstract}
+\input{abstract.tex}
+
+\section{Introduction}
+\input{introduction.tex}
+
+\section{Performance enhancements in version 3}
+\input{Astar.tex}
+\input{GPU.tex}
+
+\jeff{Do we want to mention MPLP here?}
+%etc
+
+\section{Python scripting improves ease-of-use}
+\input{python.tex}
+
+\section{New protein design algorithms in version 3}
+\input{LUTE.tex}
+\input{CATS.tex}
+\input{BBKS.tex}
+
+\section{Accuracy benchmarks} %\anna{Just adding a section for my part - we can move it wherever we think is best as far as organization goes later.}
+\input{KSTests.tex}
+
+\section{Conclusions}
+\input{conclusions.tex}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+
+\end{document}  

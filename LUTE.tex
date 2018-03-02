@@ -1,5 +1,3 @@
-\subsection{LUTE: Putting advanced modeling into a form suitable for efficient, discrete design calculations}
-
 {\sc osprey} 3 comes with LUTE~\cite{LUTE_RECOMB}, a new algorithm that addresses two issues with previous versions of {\sc osprey}.  
 
 First, previous versions modeled continuous flexibility by enumerating conformations in order of a~\textit{lower bound} on minimized conformational energy~\cite{minDEE,iMinDEE}. LUTE addresses this problem by directly optimizing the minimized energies of full conformations, which are estimated using an expansion in low-order tuples of residue conformations.  Thus, the burden of modeling continuous flexibility is shifted from the combinatorial optimization (\as) step, which has unfavorable asymptotic scaling, to a precomputation step that only scales quadratically with the number of residues. This dramatically reduces the computation time for large designs with continuous flexibility, and has doubled the number of residues that can be treated simultaneously with continuous flexibility~\cite{LUTE_RECOMB}.    

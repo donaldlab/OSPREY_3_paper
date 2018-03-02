@@ -1,14 +1,20 @@
-\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
-\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
-\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
-%\geometry{landscape}                		% Activate for for rotated page geometry
-%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
-\usepackage{graphicx}				% Use pdf, png, jpg, or eps with pdflatex; use eps in DVI mode
-								% TeX will automatically convert eps --> pdf in pdflatex		
-\usepackage{xspace}
-\usepackage{amssymb}
-\usepackage{cite}
-\usepackage{setspace}
+% Modified for use with JCC - Madhusudan Singh Copyright (C) (2012). All rights reserved.
+\documentclass[12pt]{article}
+
+\setlength{\oddsidemargin}{0in}  %left margin position, reference is one inch
+\setlength{\textwidth}{6.5in}    %width of text=8.5-1in-1in for margin
+\setlength{\topmargin}{-0.5in}    %reference is at 1.5in, -.5in gives a start of about 1in from top
+\setlength{\textheight}{9in}     %length of text=11in-1in-1in (top and bot. marg.) 
+\newenvironment{wileykeywords}{\textsf{Keywords:}\hspace{\stretch{1}}}{\hspace{\stretch{1}}\rule{1ex}{1ex}}
+
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}% Include figure files
+%\usepackage{caption}
+\usepackage{color}% Include colors for document elements
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+\usepackage[numbers,super,comma,sort&compress]{natbib}
+%\usepackage[nolists, nomarkers, figuresfirst]{endfloat}
 
 \usepackage{xcolor}
 \usepackage{xspace}
@@ -18,7 +24,6 @@
 \def\ks{\textit{$K^*$}\xspace}
 \def\ka{\textit{$K_a$}\xspace}
 \def\bbks{\textit{BBK$^*$}\xspace}
-
 
 \usepackage{listings}
 \lstset{
@@ -30,73 +35,163 @@
 \newcommand{\suggestion}[1]{\if\submissionMode0{\color{green}\textbf{#1}}\else\fi}
 \newcommand{\anna}[1]{\if\submissionMode0{\em\color{purple}(Anna: #1)}\else\fi}
 
+\newcommand{\jccsubsection}[1]{\subsection*{\sffamily \large #1}}
+\newcommand{\jccsubsubsection}[1]{\subsubsection*{\sffamily \normalsize #1}}
 
-%Submission guidelines for PLoS ONE: http://journals.plos.org/plosone/s/submission-guidelines
+\newcommand{\citen}[1]{\citenum{#1}}
+
+\definecolor{background-color}{gray}{0.98}
 
 \title{{\sc osprey} 3: Open-Source Protein Redesign for You, Refactored, with Powerful New Features}
 \author{Mark A. Hallen$^{*,1,3}$, Jeffrey W. Martin$^{*,1}$, Adegoke Ojewole$^{\dagger,4}$, \\
 Jonathan D. Jou$^{\dagger,1}$, Anna U. Lowegard$^4$, Marcel S. Frenkel$^5$, Pablo Gainza$^1$, \\
 Hunter M. Nisonoff$^1$, Aditya Mukund$^1$, Siyu Wang$^4$, Graham T. Holt$^4$, David Zhou$^1$, \\
 Elizabeth Dowd$^1$, and Bruce R. Donald$^{1,2,5}$}
-%\date{}							% Activate to display a given date or no date
 
 \begin{document}
 
-%Draft preamble
-\if\submissionMode0
-{
-\textbf{This is a draft of the OSPREY 3.0 release paper. 
-\jj{Comments from a particular author are indicated like this.}
-Please read and give comments! In particular, please provide suggestions and comments regarding the following issues:
-\begin{enumerate}
-\item BWM*: JJ has implemented BWM* in a branch of OSPREY 3.0 at this point, but hasn't made it available through the python interface. Should this be a priority?
-\item MPLP: Jeff wants to know where we should mention the MPLP bounding implementation, which Hunter and Pablo worked on. This would be the first mention of the work in OSPREY, I believe.
-\item Figures: which figures should we add or make?
-\end{enumerate}
-}
-\newpage
-}\else\fi
-
 \maketitle
+
+
 \hspace{-0.25in}$^*,^\dagger$ These authors contributed equally \\
 Departments of $^1$ Computer Science and $^2$ Chemistry, Duke University, Durham, NC 27708 \\
 $^3$ Toyota Technological Institute at Chicago, Chicago, IL 60637 \\
 $^4$ Program in Computational Biology and Bioinformatics and $^5$ Department of Biochemistry, Duke University Medical Center, Durham, NC 27710
 
-%\section{}
-%\subsection{}
 
-\if\submissionMode1\singlespacing\else\doublespacing\fi
-
-\section{Abstract}
+\begin{abstract}
 \input{abstract.tex}
+\end{abstract}
 
-\section{Introduction}
+\begin{wileykeywords}
+Protein design, drug design, GPU, structural biology, Python
+%A list of five key words or phrases which best characterize the paper are required for indexing.
+\end{wileykeywords}
+
+\clearpage
+
+%*****************Graphical Table of Contents******************** THIS IS MANDATORY *******************
+
+
+\begin{figure}[h]
+\centering
+\colorbox{background-color}{
+\fbox{
+\begin{minipage}{1.0\textwidth}
+\includegraphics[width=50mm,height=33mm]{figures/speedup.pdf} % Pick only one of the two styles by uncommenting the corresponding \includegraphics
+%\includegraphics[width=110mm,height=20mm]{cc.eps}
+%\\
+We present the third major release of the OSPREY protein design software, along with comparisons to experimental results that confirm its ability to identify protein mutants with improved function.  The new version has significant efficiency, ease-of-use, and algorithmic improvements over previous versions, including GPU acceleration and a new Python interface.  
+\end{minipage}
+}}
+\end{figure}
+
+% makes references listed with 1., 2., etc.  
+  \makeatletter
+  \renewcommand\@biblabel[1]{#1.}
+  \makeatother
+
+\bibliographystyle{apsrev}
+
+\renewcommand{\baselinestretch}{1.5}
+\normalsize
+
+
+\clearpage
+
+
+\section*{\sffamily \Large INTRODUCTION} 
 \input{introduction.tex}
 
-\section{Performance enhancements in version 3}
+\section*{\sffamily \Large PERFORMANCE ENHANCEMENTS IN VERSION 3}
+\jccsubsection{Further optimizing code yields large single-threaded speedups}
 \input{Astar.tex}
+\jccsubsection{GPU acceleration reduces design runtimes}
 \input{GPU.tex}
 
-\jeff{Do we want to mention MPLP here?}
-%etc
-
-\section{Python scripting improves ease-of-use}
+\section*{\sffamily \Large PYTHON SCRIPTING IMPROVES EASE-OF-USE}
 \input{python.tex}
 
-\section{New protein design algorithms in version 3}
-\input{LUTE.tex}
-\input{CATS.tex}
-\input{BBKS.tex}
 
-\section{Accuracy benchmarks} %\anna{Just adding a section for my part - we can move it wherever we think is best as far as organization goes later.}
+\section*{\sffamily \Large NEW PROTEIN DESIGN ALGORITHMS IN VERION 3}
+\jccsubsection{LUTE: Putting advanced modeling into a form suitable for efficient, discrete design calculations}
+\input{LUTE.tex}
+\jccsubsection{CATS: Local backbone flexibility in all biophysically feasible dimensions}
+\input{CATS.tex}
+\jccsubsection{\bbks: Efficiently computing the tightest binding sequences from a combinatorially large number of binding partners}
+\input{BBKS.tex}
+\jccsubsection{\bwmstar: Exploiting locality of protein energetics to efficiently compute the GMEC}
+\input{BWM.tex}
+
+\section*{\sffamily \Large ACCURACY BENCHMARKS}
 \input{KSTests.tex}
 
-\section{Conclusions}
+\section*{\sffamily \Large CONCLUSIONS}
 \input{conclusions.tex}
 
-\bibliographystyle{plain}
+
+\subsection*{\sffamily \large ACKNOWLEDGMENTS}
+The authors would like to thank Alvin Lebeck for helpful discussions on GPUs, and the NIH for funding.  
+
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BIBLIOGRAPHY
+
 \bibliography{references}
 
 
-\end{document}  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FIGURE CAPTIONS
+
+
+%%%%% FIGURE ---- cc.eps
+\begin{figure}
+\caption{\label{cc} WE WILL ULTIMATELY NEED TO PUT ALL FIGURES AND TABLES AT THE END, LET'S DO THAT RIGHT BEFORE SUBMISSION THOUGH?  (Also they will need to be moved to the main directory)}
+\end{figure}
+
+\begin{figure}
+\caption{\label{fig2} Place Figure 2 caption here. Figures should be uploaded as individual files, preferably .tif or .eps files, at high enough resolution (600 to 1200 dpi) to ensure clarity. Please see the author’s guide for more details and specifications. For high quality illustrations, we highly recommend the use of the TikZ package.}
+\end{figure}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FIGURE FILES
+
+\clearpage
+
+%\vspace*{0.1in}   %%% FIGURE 1
+\begin{center}
+%\includegraphics[width=0.2\columnwidth,keepaspectratio=true]{cc.eps}
+\end{center}
+\vspace{0.25in}
+\hspace*{3in}
+{\Large
+\begin{minipage}[t]{3in}
+\baselineskip = .5\baselineskip
+Figure 1 \\
+Author A, Author B, Author C, Author D \\
+J.\ Comput.\ Chem.
+\end{minipage}
+}
+
+\clearpage
+
+\begin{table}
+\begin{tabular}{|c|c|c|c|}\hline
+\textbf{Quantity} & \textbf{Calculated} & \textbf{Observed} & \textbf{Error} \\ \hline
+  Density & 5.3 & 6.3 & Within limits \\ \hline
+  Optical magnification & 8.3 & 90.9 & Utterly unacceptable\! \\ \hline
+\end{tabular}
+\caption{\label{tbl1} Place table caption here.}
+\end{table}
+
+\end{document}
+
