@@ -6,8 +6,9 @@ The performance of \as search in \osprey depends mostly on the size of the confo
 
 Combined together, these optimizations to single-threaded performance made \osprey3 about 425-fold faster than \osprey2 on a small benchmark sidechain packing problem (See Figure~\ref{fig:speedup}).
 
-\begin{figure}\label{fig:speedup}
+\begin{figure}
 \center
 \includegraphics[width=2in]{figures/speedup.pdf}
 \caption{On a small benchmark sidechain packing problem involving a 114-residue fragment of PDZ3 domain of PSD-95 protein complexed with a 6-residue peptide ligand (PDB ID: 1TP5) and consisting of six continuously flexible residues, \osprey3 (blue) finished the design 425-fold faster than \osprey2 (red). Runtimes for the benchmark design are represented as the areas of the discs. A smaller disc represents a faster runtime. This benchmark was performed in a single thread running on an Intel Xeon E5-2640 v4 CPU.}
+\label{fig:speedup}
 \end{figure}

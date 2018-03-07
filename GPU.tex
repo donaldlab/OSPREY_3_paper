@@ -4,8 +4,9 @@ Much work has been done in the past to optimize \osprey for execution on CPUs, p
 
 Modern GPU architectures offer thousands of parallel hardware units for calculations, compared to the tens of parallel hardware units in modern CPU architectures. The performance results of the current incarnation of \osprey's GPU kernels indicate that current minimization speeds on GPUs have only begun to scratch the surface of what is possible, particularly for molecules with a small number of atom pairs. It is incredibly likely that future versions of these GPU kernels will offer significantly higher performance on the same hardware -- perhaps allowing minimization speeds many times faster than today's GPU kernels.
 
-\begin{figure}\label{fig:gpu}
+\begin{figure}
 \center
 \includegraphics[width=4in]{figures/gpu.pdf}
 \caption{Benchmarks for protein conformation minimization in \osprey3 for various hardware platforms and for molecules of varying size. From smallest to largest: {\bf (top)} a single residue pair used in energy matrix computations, {\bf (middle)} a full protein conformation with a single flexible residue, {\bf (bottom)} a full protein conformation with 20 flexible residues. For CPU hardware, concurrent minimizations correspond to CPU threads. For GPU hardware, concurrent minimizations correspond to {\it streams} defined by the CUDA framework. Faster minimization speeds correspond with faster \osprey runtimes.}
+\label{fig:gpu}
 \end{figure}

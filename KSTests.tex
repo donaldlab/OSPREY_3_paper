@@ -2,7 +2,7 @@ To evaluate the accuracy of the \osprey \ks algorithm~\cite{K*}, we performed a 
 
 Our retrospective validation experiments focused on mutations at residues in or proximal to the protein-protein interface that were not limited to alanine scanning. Including some of these tested and reported mutations \cite{binding2barnase,bindingbarnase,bindingcytc,bindingifna2,bindingil2}, each structure included anywhere from 5 to 19 ranked designs. In total, we tested 58 mutations using default, out-of-the-box \osprey settings and parameters. Each design included one or two mutable residues along with a set of surrounding flexible residues (See Table \ref{table:spearman}). Flexible residues were chosen by selecting all residues within 4 {\AA} of the mutable residues and removing those which only have backbone interactions. 
 
-\begin{table}[h!]\label{table:spearman}
+\begin{table}[h!]
 \tiny
 \parbox{.5\linewidth}{
 \begin{tabular}{|K{1cm}|K{1.5cm}|K{1.5cm}|K{1.5cm}|}
@@ -80,6 +80,7 @@ Our retrospective validation experiments focused on mutations at residues in or 
 \end{tabular}
 }
 \caption{Allowed mutations and compared rankings. A Spearman's $\rho$ value is calculated for each system and shown here. The ``Across All" value is calculated by ranking each system individually and then calculating the Spearman's $\rho$ across all of the designs---in other words, it is the Pearson correlation of the intra-system ranks of all the mutants.  We consider this meaningful because the output of a design calculation that is used to decide on mutants to make experimentally is simply the intra-system ranks of the mutants.}
+\label{table:spearman}
 \end{table}
 
 For each system, the \ks scores were ranked in increasing order of reported experimental binding. Spearman's $\rho$ values were subsequently calculated for each system by calculating the statistical dependence between the \ks score rankings and the experimentally measured rankings. 
