@@ -1,6 +1,6 @@
 \def\Oh{$\mathcal{O}$}
 
-{\sc osprey} 3 comes with {\bwmstar}~\cite{BWM_JCB}, a new algorithm that exploits sparse energy functions to provably compute the GMEC in time exponential in merely the branch-width $w$ of a protein design problem's sparse residue interaction graph.
+{\sc osprey} 3.0 comes with {\bwmstar}~\cite{BWM_JCB}, a new algorithm that exploits sparse energy functions to provably compute the GMEC in time exponential in merely the branch-width $w$ of a protein design problem's sparse residue interaction graph.
 
 Because energy decreases as a function of distance, many protein design algorithms model protein energetics with energy functions which omit pairwise interactions between sufficiently distant residues. These \emph{sparse energy functions} not only provide a simpler, more efficiently computed model of energy, but also induce \emph{optimal substructure} to the problem: because not all residues interact, the optimal conformation for a given residue can be independent of the conformations at other residues. {\bwmstar} exploits this optimal substructure by 1) representing the sparse interactions with a sparse residue interaction graph, and 2) computing a branch-decomposition for use in dynamic programming. 
 
