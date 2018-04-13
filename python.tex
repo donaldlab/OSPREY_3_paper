@@ -6,9 +6,10 @@ The \osprey 3.0 distribution contains a Python module which is installed using t
 See Figure~\ref{fig:python} for a complete example of a Python script that performs a very simple design using \osprey 3.0.
 
 \begin{figure}
+\vspace{-0.7in}
 {\fontfamily{pcr}
 	\lstinputlisting[language=Python]{figures/findGMEC.py}
 }
-\caption{A Python script that performs a very simple design in \osprey 3.0.  The design searches over sequences in which residues A2 and/or A3 of the Atx1 metallochaperone protein (PDB ID: 1CC8)~\cite{1CC8} are mutated; residues A2-A4 are all modeled with sidechain flexibility, consisting of a discrete search over the Penultimate rotamer library\cite{penultimate}'s rotamers for the specified amino acid types.  }
+\caption{A Python script that performs a very simple design in \osprey 3.0.  The design searches over sequences in which residues A2 and/or A3 of the Atx1 metallochaperone protein (PDB ID: 1CC8)~\cite{1CC8} are mutated; residues A2-A4 are all modeled with sidechain flexibility, consisting of a discrete search over the Penultimate rotamer library\cite{penultimate}'s rotamers for the specified amino acid types.  The mutability, flexibility, and starting crystal structure are all specified in the ``define a strand'' section of the code.  The other sections will remain unchanged for most users, but advanced users can modify these sections to specify changes from the default search algorithms, energy function, and other modeling assumptions.  }
 \label{fig:python}
 \end{figure}
