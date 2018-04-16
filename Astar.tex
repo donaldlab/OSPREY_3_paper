@@ -4,18 +4,18 @@
 
 \osprey 3.0 also includes optimizations to improve the performance of forcefield evaluation and conformation minimization. Conformation minimization is typically the bottleneck in \osprey calculations with continuous flexibility~\cite{minDEE,iMinDEE,DEEPer,CATS}.  The code in \osprey 3.0 that evaluates forcefield energies for a protein conformation has been heavily optimized, although speed gains here over \osprey2 are modest (roughly two-fold), since the original code was already well-optimized in this area. Much larger performance increases were gained by caching forcefield parameters and lists of atom pairs between different conformations to be minimized, which yielded roughly a 10-fold increase in speed. \osprey 3.0 also increases performance by only evaluating forcefield terms involving mutable and/or flexible residues in a design, since interaction energies between other residues will be identical across all sequences and conformations.  Since most designs only model a minority of the residues in a protein as flexible, this can be a substantial improvement. 
 
-Combined together, these optimizations to single-threaded performance made \osprey 3.0 on average 461-fold faster than \osprey 2.2 (median 28-fold) across 45 protein design test cases (Fig.~\ref{fig:2v3}, Table~\ref{table:2v3}).  For example, \osprey 2.2 on a Intel Xeon E5-2640 v4 CPU took 49.5 minutes to run a small (6 continuously flexible residues) benchmark sidechain packing problem involving a 114-residue fragment of PDZ3 domain of PSD-95 protein complexed with a 6-residue peptide ligand (PDB ID: 1TP5).  But \osprey 3.0 finished the same design in 7.0 seconds on the same hardware, which is a 424-fold speedup.  
+Combined together, these optimizations to single-threaded performance made \osprey 3.0 on average 461-fold faster than \osprey 2.2 (median 28-fold) across 29 protein design test cases, and allowed \osprey 3.0 to finish an additional 16 test cases that \osprey 2.2 could not finish within a 17-day time limit (Fig.~\ref{fig:2v3}, Table~\ref{table:2v3}).  For example, \osprey 2.2 on a Intel Xeon E5-2640 v4 CPU took 49.5 minutes to run a small (6 continuously flexible residues) benchmark sidechain packing problem involving a 114-residue fragment of PDZ3 domain of PSD-95 protein complexed with a 6-residue peptide ligand (PDB ID: 1TP5).  But \osprey 3.0 finished the same design in 7.0 seconds on the same hardware, which is a 424-fold speedup.  
 
 \begin{figure}
 \center
 \includegraphics[width=4in]{figures/2v3_times.png}
-\caption{Runtimes of \osprey 2.2 and \osprey 3.0 for 45 protein design test cases (details shown in Table~\ref{table:2v3}). Designs that only finished with \osprey 3.0 (given a 17-day time limit) are shown on the right in red.}
+\caption{Runtimes of \osprey 2.2 and \osprey 3.0 for 45 protein design test cases (details shown in Table~\ref{table:2v3}), shown on a log scale. Designs that only finished with \osprey 3.0 (given a 17-day time limit) are shown on the right in red.}
 \label{fig:2v3}
 \end{figure}
 
 \begin{table}
 \caption{
-Details of 45 protein design test cases run on both \osprey 2.2 and \osprey 3.0.  $^a$ Y indicates a partition function calculation (using the $K^*$ algorithm and thus a thermodynamic ensemble of conformations); N indicates calculation of the single global minimum-energy conformation (GMEC). }
+Details of 45 protein design test cases run on both \osprey 2.2 and \osprey 3.0.  Test cases primarily adapted from Ref.~\citen{EPIC}.  $^a$ Y indicates a partition function calculation (using the $K^*$ algorithm and thus a thermodynamic ensemble of conformations); N indicates calculation of the single global minimum-energy conformation (GMEC). }
 \resizebox{\textwidth}{!}{
 \begin{tabular}{|p{1.9in}|p{0.5in}|p{0.3in}|p{0.6in}|p{0.75in}|p{0.75in}|p{0.75in}|}
 \hline
