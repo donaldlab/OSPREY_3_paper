@@ -14,9 +14,3 @@ The performance of desktop hardware appears similar to server hardware, except o
 
 Modern GPU architectures offer thousands of parallel hardware units for calculations, compared to the tens of parallel hardware units in modern CPU architectures. The performance results of the current generation of \osprey's GPU kernels indicate that minimization speeds on GPUs have only begun to scratch the surface of what is possible, particularly for minimizations with few atom pairs. Future versions of these GPU kernels will likely offer significantly higher performance on the same hardware -- perhaps allowing minimization speeds many times faster than today's GPU kernels.  This in turn will make it even more efficient to perform minimization-aware protein design, and allow minimization-aware designs with even more mutable and flexible residues and with more mutation options per residue.  
 
-\begin{figure}
-\center
-\includegraphics[width=4in]{figures/gpu.pdf}
-\caption{Benchmarks for protein conformation minimization in \osprey 3.0 for various hardware platforms and for conformations of varying size. From smallest to largest: {\bf (top)} a single residue pair is the smallest multi-body minimization possible, {\bf (middle)} a full protein conformation with a single flexible residue represents a small design, {\bf (bottom)} a full protein conformation with 20 flexible residues represents a large design. For CPU hardware, concurrent minimizations correspond to CPU threads. For GPU hardware, concurrent minimizations correspond to {\it streams} defined by the CUDA framework. Faster minimization speeds correspond with faster \osprey runtimes. All minimizations were performed on the Atx1 metallochaperone protein (PDB ID: 1CC8)~\cite{1CC8}. Flexible residues were modeled with continuous sidechain flexibility, and all other residues remained completely fixed.}
-\label{fig:gpu}
-\end{figure}

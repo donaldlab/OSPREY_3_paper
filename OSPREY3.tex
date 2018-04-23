@@ -159,13 +159,13 @@ The authors would like to thank Dr. Alvin Lebeck for helpful discussions on GPUs
 
 
 %%%%% FIGURE ---- cc.eps
-\begin{figure}
-\caption{\label{cc} WE WILL ULTIMATELY NEED TO PUT ALL FIGURES AND TABLES AT THE END, LET'S DO THAT RIGHT BEFORE SUBMISSION THOUGH?  (Also they will need to be moved to the main directory)}
-\end{figure}
+%\begin{figure}
+%\caption{\label{cc} WE WILL ULTIMATELY NEED TO PUT ALL FIGURES AND TABLES AT THE END, LET'S DO THAT RIGHT BEFORE SUBMISSION THOUGH?  (Also they will need to be moved to the main directory)}
+%\end{figure}
 
-\begin{figure}
-\caption{\label{fig2} Place Figure 2 caption here. Figures should be uploaded as individual files, preferably .tif or .eps files, at high enough resolution (600 to 1200 dpi) to ensure clarity. Please see the author’s guide for more details and specifications. For high quality illustrations, we highly recommend the use of the TikZ package.}
-\end{figure}
+
+\input{figure_captions.tex}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -177,31 +177,10 @@ The authors would like to thank Dr. Alvin Lebeck for helpful discussions on GPUs
 
 \clearpage
 
-%\vspace*{0.1in}   %%% FIGURE 1
-\begin{center}
-%\includegraphics[width=0.2\columnwidth,keepaspectratio=true]{cc.eps}
-\end{center}
-\vspace{0.25in}
-\hspace*{3in}
-{\Large
-\begin{minipage}[t]{3in}
-\baselineskip = .5\baselineskip
-Figure 1 \\
-Author A, Author B, Author C, Author D \\
-J.\ Comput.\ Chem.
-\end{minipage}
-}
+\input{figure_graphics.tex}
 
 \clearpage
-
-\begin{table}
-\begin{tabular}{|c|c|c|c|}\hline
-\textbf{Quantity} & \textbf{Calculated} & \textbf{Observed} & \textbf{Error} \\ \hline
-  Density & 5.3 & 6.3 & Within limits \\ \hline
-  Optical magnification & 8.3 & 90.9 & Utterly unacceptable\! \\ \hline
-\end{tabular}
-\caption{\label{tbl1} Place table caption here.}
-\end{table}
+\input{tables.tex}
 
 \end{document}
 
